@@ -1,10 +1,10 @@
 [
 	{
 		"id": 1,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Vercel",
 		"salary": "$110k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "front end",
 		"posted": "2 days ago",
@@ -19,7 +19,7 @@
 			"Strong fundamentals in HTML, CSS, and JavaScript",
 			"Familiarity with React, TypeScript, and Git"
 		],
-		"applyUrl": "https://example.com/apply/vercel-junior-frontend"
+		"applyUrl": "https://example.com/apply/vercel-entry-frontend"
 	},
 	{
 		"id": 2,
@@ -155,10 +155,10 @@
 	},
 	{
 		"id": 8,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Microsoft",
 		"salary": "$115k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "back end",
 		"posted": "1 week ago",
@@ -173,7 +173,7 @@
 			"Familiarity with one of Go, Java, Rust, or C#",
 			"Curiosity about distributed systems and cloud"
 		],
-		"applyUrl": "https://example.com/apply/microsoft-junior-backend"
+		"applyUrl": "https://example.com/apply/microsoft-entry-backend"
 	},
 	{
 		"id": 9,
@@ -309,10 +309,10 @@
 	},
 	{
 		"id": 15,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Discord",
 		"salary": "$120k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "product engineer",
 		"posted": "2 days ago",
@@ -327,14 +327,14 @@
 			"Comfortable across frontend and backend",
 			"Strong product sense and bias to ship"
 		],
-		"applyUrl": "https://example.com/apply/discord-junior-product"
+		"applyUrl": "https://example.com/apply/discord-entry-product"
 	},
 	{
 		"id": 16,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Meta",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "full stack",
 		"posted": "5 days ago",
@@ -349,7 +349,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/meta-junior-full-stack-16"
+		"applyUrl": "https://example.com/apply/meta-entry-full-stack-16"
 	},
 	{
 		"id": 17,
@@ -441,10 +441,10 @@
 	},
 	{
 		"id": 21,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Inflection",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "infrastructure",
 		"posted": "1 day ago",
@@ -459,7 +459,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/inflection-junior-infrastructure-21"
+		"applyUrl": "https://example.com/apply/inflection-entry-infrastructure-21"
 	},
 	{
 		"id": 22,
@@ -551,10 +551,10 @@
 	},
 	{
 		"id": 26,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Elastic",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "front end",
 		"posted": "6 days ago",
@@ -569,7 +569,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/elastic-junior-front-end-26"
+		"applyUrl": "https://example.com/apply/elastic-entry-front-end-26"
 	},
 	{
 		"id": 27,
@@ -661,10 +661,10 @@
 	},
 	{
 		"id": 31,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Shopify",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "AI",
 		"posted": "2 days ago",
@@ -679,7 +679,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/shopify-junior-ai-31"
+		"applyUrl": "https://example.com/apply/shopify-entry-ai-31"
 	},
 	{
 		"id": 32,
@@ -771,10 +771,10 @@
 	},
 	{
 		"id": 36,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Reddit",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "product engineer",
 		"posted": "1 week ago",
@@ -789,7 +789,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/reddit-junior-product-engineer-36"
+		"applyUrl": "https://example.com/apply/reddit-entry-product-engineer-36"
 	},
 	{
 		"id": 37,
@@ -881,10 +881,10 @@
 	},
 	{
 		"id": 41,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "CrowdStrike",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "back end",
 		"posted": "3 days ago",
@@ -899,7 +899,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/crowdstrike-junior-back-end-41"
+		"applyUrl": "https://example.com/apply/crowdstrike-entry-back-end-41"
 	},
 	{
 		"id": 42,
@@ -991,10 +991,10 @@
 	},
 	{
 		"id": 46,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Perplexity",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "security",
 		"posted": "2 weeks ago",
@@ -1009,7 +1009,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/perplexity-junior-security-46"
+		"applyUrl": "https://example.com/apply/perplexity-entry-security-46"
 	},
 	{
 		"id": 47,
@@ -1101,10 +1101,10 @@
 	},
 	{
 		"id": 51,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Atlassian",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "full stack",
 		"posted": "4 days ago",
@@ -1119,7 +1119,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/atlassian-junior-full-stack-51"
+		"applyUrl": "https://example.com/apply/atlassian-entry-full-stack-51"
 	},
 	{
 		"id": 52,
@@ -1211,10 +1211,10 @@
 	},
 	{
 		"id": 56,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Tower Research",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "infrastructure",
 		"posted": "3 weeks ago",
@@ -1229,7 +1229,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/tower-research-junior-infrastructure-56"
+		"applyUrl": "https://example.com/apply/tower-research-entry-infrastructure-56"
 	},
 	{
 		"id": 57,
@@ -1321,10 +1321,10 @@
 	},
 	{
 		"id": 61,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Robinhood",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "front end",
 		"posted": "5 days ago",
@@ -1339,7 +1339,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/robinhood-junior-front-end-61"
+		"applyUrl": "https://example.com/apply/robinhood-entry-front-end-61"
 	},
 	{
 		"id": 62,
@@ -1431,10 +1431,10 @@
 	},
 	{
 		"id": 66,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Unity",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "AI",
 		"posted": "1 day ago",
@@ -1449,7 +1449,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/unity-junior-ai-66"
+		"applyUrl": "https://example.com/apply/unity-entry-ai-66"
 	},
 	{
 		"id": 67,
@@ -1541,10 +1541,10 @@
 	},
 	{
 		"id": 71,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "xAI",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "product engineer",
 		"posted": "6 days ago",
@@ -1559,7 +1559,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/xai-junior-product-engineer-71"
+		"applyUrl": "https://example.com/apply/xai-entry-product-engineer-71"
 	},
 	{
 		"id": 72,
@@ -1651,10 +1651,10 @@
 	},
 	{
 		"id": 76,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Datadog",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "back end",
 		"posted": "2 days ago",
@@ -1669,7 +1669,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/datadog-junior-back-end-76"
+		"applyUrl": "https://example.com/apply/datadog-entry-back-end-76"
 	},
 	{
 		"id": 77,
@@ -1761,10 +1761,10 @@
 	},
 	{
 		"id": 81,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Five Rings",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "security",
 		"posted": "1 week ago",
@@ -1779,7 +1779,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/five-rings-junior-security-81"
+		"applyUrl": "https://example.com/apply/five-rings-entry-security-81"
 	},
 	{
 		"id": 82,
@@ -1871,10 +1871,10 @@
 	},
 	{
 		"id": 86,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Brex",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "full stack",
 		"posted": "3 days ago",
@@ -1889,7 +1889,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/brex-junior-full-stack-86"
+		"applyUrl": "https://example.com/apply/brex-entry-full-stack-86"
 	},
 	{
 		"id": 87,
@@ -1981,10 +1981,10 @@
 	},
 	{
 		"id": 91,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Qualcomm",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "infrastructure",
 		"posted": "2 weeks ago",
@@ -1999,7 +1999,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/qualcomm-junior-infrastructure-91"
+		"applyUrl": "https://example.com/apply/qualcomm-entry-infrastructure-91"
 	},
 	{
 		"id": 92,
@@ -2091,10 +2091,10 @@
 	},
 	{
 		"id": 96,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Tesla",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "front end",
 		"posted": "4 days ago",
@@ -2109,7 +2109,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/tesla-junior-front-end-96"
+		"applyUrl": "https://example.com/apply/tesla-entry-front-end-96"
 	},
 	{
 		"id": 97,
@@ -2201,10 +2201,10 @@
 	},
 	{
 		"id": 101,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Figma",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "AI",
 		"posted": "3 weeks ago",
@@ -2219,7 +2219,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/figma-junior-ai-101"
+		"applyUrl": "https://example.com/apply/figma-entry-ai-101"
 	},
 	{
 		"id": 102,
@@ -2311,10 +2311,10 @@
 	},
 	{
 		"id": 106,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Hudson River Trading",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "product engineer",
 		"posted": "5 days ago",
@@ -2329,7 +2329,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/hudson-river-trading-junior-product-engineer-106"
+		"applyUrl": "https://example.com/apply/hudson-river-trading-entry-product-engineer-106"
 	},
 	{
 		"id": 107,
@@ -2421,10 +2421,10 @@
 	},
 	{
 		"id": 111,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Block",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "back end",
 		"posted": "1 day ago",
@@ -2439,7 +2439,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/block-junior-back-end-111"
+		"applyUrl": "https://example.com/apply/block-entry-back-end-111"
 	},
 	{
 		"id": 112,
@@ -2531,10 +2531,10 @@
 	},
 	{
 		"id": 116,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Oracle",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "security",
 		"posted": "6 days ago",
@@ -2549,7 +2549,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/oracle-junior-security-116"
+		"applyUrl": "https://example.com/apply/oracle-entry-security-116"
 	},
 	{
 		"id": 117,
@@ -2641,10 +2641,10 @@
 	},
 	{
 		"id": 121,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Netflix",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "full stack",
 		"posted": "2 days ago",
@@ -2659,7 +2659,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/netflix-junior-full-stack-121"
+		"applyUrl": "https://example.com/apply/netflix-entry-full-stack-121"
 	},
 	{
 		"id": 122,
@@ -2751,10 +2751,10 @@
 	},
 	{
 		"id": 126,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Snowflake",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "infrastructure",
 		"posted": "1 week ago",
@@ -2769,7 +2769,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/snowflake-junior-infrastructure-126"
+		"applyUrl": "https://example.com/apply/snowflake-entry-infrastructure-126"
 	},
 	{
 		"id": 127,
@@ -2861,10 +2861,10 @@
 	},
 	{
 		"id": 131,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Two Sigma",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "front end",
 		"posted": "3 days ago",
@@ -2879,7 +2879,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/two-sigma-junior-front-end-131"
+		"applyUrl": "https://example.com/apply/two-sigma-entry-front-end-131"
 	},
 	{
 		"id": 132,
@@ -2971,10 +2971,10 @@
 	},
 	{
 		"id": 136,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Uber",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "AI",
 		"posted": "2 weeks ago",
@@ -2989,7 +2989,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/uber-junior-ai-136"
+		"applyUrl": "https://example.com/apply/uber-entry-ai-136"
 	},
 	{
 		"id": 137,
@@ -3081,10 +3081,10 @@
 	},
 	{
 		"id": 141,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "ByteDance",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "product engineer",
 		"posted": "4 days ago",
@@ -3099,7 +3099,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/bytedance-junior-product-engineer-141"
+		"applyUrl": "https://example.com/apply/bytedance-entry-product-engineer-141"
 	},
 	{
 		"id": 142,
@@ -3191,10 +3191,10 @@
 	},
 	{
 		"id": 146,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Meta",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "back end",
 		"posted": "3 weeks ago",
@@ -3209,7 +3209,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/meta-junior-back-end-146"
+		"applyUrl": "https://example.com/apply/meta-entry-back-end-146"
 	},
 	{
 		"id": 147,
@@ -3301,10 +3301,10 @@
 	},
 	{
 		"id": 151,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Inflection",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "security",
 		"posted": "5 days ago",
@@ -3319,7 +3319,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/inflection-junior-security-151"
+		"applyUrl": "https://example.com/apply/inflection-entry-security-151"
 	},
 	{
 		"id": 152,
@@ -3411,10 +3411,10 @@
 	},
 	{
 		"id": 156,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Elastic",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "full stack",
 		"posted": "1 day ago",
@@ -3429,7 +3429,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/elastic-junior-full-stack-156"
+		"applyUrl": "https://example.com/apply/elastic-entry-full-stack-156"
 	},
 	{
 		"id": 157,
@@ -3521,10 +3521,10 @@
 	},
 	{
 		"id": 161,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Shopify",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "infrastructure",
 		"posted": "6 days ago",
@@ -3539,7 +3539,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/shopify-junior-infrastructure-161"
+		"applyUrl": "https://example.com/apply/shopify-entry-infrastructure-161"
 	},
 	{
 		"id": 162,
@@ -3631,10 +3631,10 @@
 	},
 	{
 		"id": 166,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Reddit",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "front end",
 		"posted": "2 days ago",
@@ -3649,7 +3649,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/reddit-junior-front-end-166"
+		"applyUrl": "https://example.com/apply/reddit-entry-front-end-166"
 	},
 	{
 		"id": 167,
@@ -3741,10 +3741,10 @@
 	},
 	{
 		"id": 171,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "CrowdStrike",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "AI",
 		"posted": "1 week ago",
@@ -3759,7 +3759,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/crowdstrike-junior-ai-171"
+		"applyUrl": "https://example.com/apply/crowdstrike-entry-ai-171"
 	},
 	{
 		"id": 172,
@@ -3851,10 +3851,10 @@
 	},
 	{
 		"id": 176,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Perplexity",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "product engineer",
 		"posted": "3 days ago",
@@ -3869,7 +3869,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/perplexity-junior-product-engineer-176"
+		"applyUrl": "https://example.com/apply/perplexity-entry-product-engineer-176"
 	},
 	{
 		"id": 177,
@@ -3961,10 +3961,10 @@
 	},
 	{
 		"id": 181,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Atlassian",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "back end",
 		"posted": "2 weeks ago",
@@ -3979,7 +3979,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/atlassian-junior-back-end-181"
+		"applyUrl": "https://example.com/apply/atlassian-entry-back-end-181"
 	},
 	{
 		"id": 182,
@@ -4071,10 +4071,10 @@
 	},
 	{
 		"id": 186,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Tower Research",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "security",
 		"posted": "4 days ago",
@@ -4089,7 +4089,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/tower-research-junior-security-186"
+		"applyUrl": "https://example.com/apply/tower-research-entry-security-186"
 	},
 	{
 		"id": 187,
@@ -4181,10 +4181,10 @@
 	},
 	{
 		"id": 191,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Robinhood",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "full stack",
 		"posted": "3 weeks ago",
@@ -4199,7 +4199,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/robinhood-junior-full-stack-191"
+		"applyUrl": "https://example.com/apply/robinhood-entry-full-stack-191"
 	},
 	{
 		"id": 192,
@@ -4291,10 +4291,10 @@
 	},
 	{
 		"id": 196,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Unity",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "infrastructure",
 		"posted": "5 days ago",
@@ -4309,7 +4309,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/unity-junior-infrastructure-196"
+		"applyUrl": "https://example.com/apply/unity-entry-infrastructure-196"
 	},
 	{
 		"id": 197,
@@ -4401,10 +4401,10 @@
 	},
 	{
 		"id": 201,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "xAI",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "front end",
 		"posted": "1 day ago",
@@ -4419,7 +4419,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/xai-junior-front-end-201"
+		"applyUrl": "https://example.com/apply/xai-entry-front-end-201"
 	},
 	{
 		"id": 202,
@@ -4511,10 +4511,10 @@
 	},
 	{
 		"id": 206,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Datadog",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "AI",
 		"posted": "6 days ago",
@@ -4529,7 +4529,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/datadog-junior-ai-206"
+		"applyUrl": "https://example.com/apply/datadog-entry-ai-206"
 	},
 	{
 		"id": 207,
@@ -4621,10 +4621,10 @@
 	},
 	{
 		"id": 211,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Five Rings",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "product engineer",
 		"posted": "2 days ago",
@@ -4639,7 +4639,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/five-rings-junior-product-engineer-211"
+		"applyUrl": "https://example.com/apply/five-rings-entry-product-engineer-211"
 	},
 	{
 		"id": 212,
@@ -4731,10 +4731,10 @@
 	},
 	{
 		"id": 216,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Brex",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "back end",
 		"posted": "1 week ago",
@@ -4749,7 +4749,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/brex-junior-back-end-216"
+		"applyUrl": "https://example.com/apply/brex-entry-back-end-216"
 	},
 	{
 		"id": 217,
@@ -4841,10 +4841,10 @@
 	},
 	{
 		"id": 221,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Qualcomm",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "security",
 		"posted": "3 days ago",
@@ -4859,7 +4859,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/qualcomm-junior-security-221"
+		"applyUrl": "https://example.com/apply/qualcomm-entry-security-221"
 	},
 	{
 		"id": 222,
@@ -4951,10 +4951,10 @@
 	},
 	{
 		"id": 226,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Tesla",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "full stack",
 		"posted": "2 weeks ago",
@@ -4969,7 +4969,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/tesla-junior-full-stack-226"
+		"applyUrl": "https://example.com/apply/tesla-entry-full-stack-226"
 	},
 	{
 		"id": 227,
@@ -5061,10 +5061,10 @@
 	},
 	{
 		"id": 231,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Figma",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "infrastructure",
 		"posted": "4 days ago",
@@ -5079,7 +5079,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/figma-junior-infrastructure-231"
+		"applyUrl": "https://example.com/apply/figma-entry-infrastructure-231"
 	},
 	{
 		"id": 232,
@@ -5171,10 +5171,10 @@
 	},
 	{
 		"id": 236,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Hudson River Trading",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "front end",
 		"posted": "3 weeks ago",
@@ -5189,7 +5189,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/hudson-river-trading-junior-front-end-236"
+		"applyUrl": "https://example.com/apply/hudson-river-trading-entry-front-end-236"
 	},
 	{
 		"id": 237,
@@ -5281,10 +5281,10 @@
 	},
 	{
 		"id": 241,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Block",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "AI",
 		"posted": "5 days ago",
@@ -5299,7 +5299,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/block-junior-ai-241"
+		"applyUrl": "https://example.com/apply/block-entry-ai-241"
 	},
 	{
 		"id": 242,
@@ -5391,10 +5391,10 @@
 	},
 	{
 		"id": 246,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Oracle",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "product engineer",
 		"posted": "1 day ago",
@@ -5409,7 +5409,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/oracle-junior-product-engineer-246"
+		"applyUrl": "https://example.com/apply/oracle-entry-product-engineer-246"
 	},
 	{
 		"id": 247,
@@ -5501,10 +5501,10 @@
 	},
 	{
 		"id": 251,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Netflix",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "back end",
 		"posted": "6 days ago",
@@ -5519,7 +5519,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/netflix-junior-back-end-251"
+		"applyUrl": "https://example.com/apply/netflix-entry-back-end-251"
 	},
 	{
 		"id": 252,
@@ -5611,10 +5611,10 @@
 	},
 	{
 		"id": 256,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Snowflake",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "security",
 		"posted": "2 days ago",
@@ -5629,7 +5629,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/snowflake-junior-security-256"
+		"applyUrl": "https://example.com/apply/snowflake-entry-security-256"
 	},
 	{
 		"id": 257,
@@ -5721,10 +5721,10 @@
 	},
 	{
 		"id": 261,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Two Sigma",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "full stack",
 		"posted": "1 week ago",
@@ -5739,7 +5739,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/two-sigma-junior-full-stack-261"
+		"applyUrl": "https://example.com/apply/two-sigma-entry-full-stack-261"
 	},
 	{
 		"id": 262,
@@ -5831,10 +5831,10 @@
 	},
 	{
 		"id": 266,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Uber",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "infrastructure",
 		"posted": "3 days ago",
@@ -5849,7 +5849,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/uber-junior-infrastructure-266"
+		"applyUrl": "https://example.com/apply/uber-entry-infrastructure-266"
 	},
 	{
 		"id": 267,
@@ -5941,10 +5941,10 @@
 	},
 	{
 		"id": 271,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "ByteDance",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "front end",
 		"posted": "2 weeks ago",
@@ -5959,7 +5959,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/bytedance-junior-front-end-271"
+		"applyUrl": "https://example.com/apply/bytedance-entry-front-end-271"
 	},
 	{
 		"id": 272,
@@ -6051,10 +6051,10 @@
 	},
 	{
 		"id": 276,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Meta",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "AI",
 		"posted": "4 days ago",
@@ -6069,7 +6069,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/meta-junior-ai-276"
+		"applyUrl": "https://example.com/apply/meta-entry-ai-276"
 	},
 	{
 		"id": 277,
@@ -6161,10 +6161,10 @@
 	},
 	{
 		"id": 281,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Inflection",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "product engineer",
 		"posted": "3 weeks ago",
@@ -6179,7 +6179,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/inflection-junior-product-engineer-281"
+		"applyUrl": "https://example.com/apply/inflection-entry-product-engineer-281"
 	},
 	{
 		"id": 282,
@@ -6271,10 +6271,10 @@
 	},
 	{
 		"id": 286,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Elastic",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "back end",
 		"posted": "5 days ago",
@@ -6289,7 +6289,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/elastic-junior-back-end-286"
+		"applyUrl": "https://example.com/apply/elastic-entry-back-end-286"
 	},
 	{
 		"id": 287,
@@ -6381,10 +6381,10 @@
 	},
 	{
 		"id": 291,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Shopify",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "security",
 		"posted": "1 day ago",
@@ -6399,7 +6399,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/shopify-junior-security-291"
+		"applyUrl": "https://example.com/apply/shopify-entry-security-291"
 	},
 	{
 		"id": 292,
@@ -6491,10 +6491,10 @@
 	},
 	{
 		"id": 296,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Reddit",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "full stack",
 		"posted": "6 days ago",
@@ -6509,7 +6509,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/reddit-junior-full-stack-296"
+		"applyUrl": "https://example.com/apply/reddit-entry-full-stack-296"
 	},
 	{
 		"id": 297,
@@ -6601,10 +6601,10 @@
 	},
 	{
 		"id": 301,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "CrowdStrike",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "infrastructure",
 		"posted": "2 days ago",
@@ -6619,7 +6619,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/crowdstrike-junior-infrastructure-301"
+		"applyUrl": "https://example.com/apply/crowdstrike-entry-infrastructure-301"
 	},
 	{
 		"id": 302,
@@ -6711,10 +6711,10 @@
 	},
 	{
 		"id": 306,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Perplexity",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "front end",
 		"posted": "1 week ago",
@@ -6729,7 +6729,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/perplexity-junior-front-end-306"
+		"applyUrl": "https://example.com/apply/perplexity-entry-front-end-306"
 	},
 	{
 		"id": 307,
@@ -6821,10 +6821,10 @@
 	},
 	{
 		"id": 311,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Atlassian",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "AI",
 		"posted": "3 days ago",
@@ -6839,7 +6839,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/atlassian-junior-ai-311"
+		"applyUrl": "https://example.com/apply/atlassian-entry-ai-311"
 	},
 	{
 		"id": 312,
@@ -6931,10 +6931,10 @@
 	},
 	{
 		"id": 316,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Tower Research",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "product engineer",
 		"posted": "2 weeks ago",
@@ -6949,7 +6949,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/tower-research-junior-product-engineer-316"
+		"applyUrl": "https://example.com/apply/tower-research-entry-product-engineer-316"
 	},
 	{
 		"id": 317,
@@ -7041,10 +7041,10 @@
 	},
 	{
 		"id": 321,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Robinhood",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "back end",
 		"posted": "4 days ago",
@@ -7059,7 +7059,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/robinhood-junior-back-end-321"
+		"applyUrl": "https://example.com/apply/robinhood-entry-back-end-321"
 	},
 	{
 		"id": 322,
@@ -7151,10 +7151,10 @@
 	},
 	{
 		"id": 326,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Unity",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "security",
 		"posted": "3 weeks ago",
@@ -7169,7 +7169,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/unity-junior-security-326"
+		"applyUrl": "https://example.com/apply/unity-entry-security-326"
 	},
 	{
 		"id": 327,
@@ -7261,10 +7261,10 @@
 	},
 	{
 		"id": 331,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "xAI",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "full stack",
 		"posted": "5 days ago",
@@ -7279,7 +7279,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/xai-junior-full-stack-331"
+		"applyUrl": "https://example.com/apply/xai-entry-full-stack-331"
 	},
 	{
 		"id": 332,
@@ -7371,10 +7371,10 @@
 	},
 	{
 		"id": 336,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Datadog",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "infrastructure",
 		"posted": "1 day ago",
@@ -7389,7 +7389,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/datadog-junior-infrastructure-336"
+		"applyUrl": "https://example.com/apply/datadog-entry-infrastructure-336"
 	},
 	{
 		"id": 337,
@@ -7481,10 +7481,10 @@
 	},
 	{
 		"id": 341,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Five Rings",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "front end",
 		"posted": "6 days ago",
@@ -7499,7 +7499,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/five-rings-junior-front-end-341"
+		"applyUrl": "https://example.com/apply/five-rings-entry-front-end-341"
 	},
 	{
 		"id": 342,
@@ -7591,10 +7591,10 @@
 	},
 	{
 		"id": 346,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Brex",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "AI",
 		"posted": "2 days ago",
@@ -7609,7 +7609,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/brex-junior-ai-346"
+		"applyUrl": "https://example.com/apply/brex-entry-ai-346"
 	},
 	{
 		"id": 347,
@@ -7701,10 +7701,10 @@
 	},
 	{
 		"id": 351,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Qualcomm",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "product engineer",
 		"posted": "1 week ago",
@@ -7719,7 +7719,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/qualcomm-junior-product-engineer-351"
+		"applyUrl": "https://example.com/apply/qualcomm-entry-product-engineer-351"
 	},
 	{
 		"id": 352,
@@ -7811,10 +7811,10 @@
 	},
 	{
 		"id": 356,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Tesla",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "back end",
 		"posted": "3 days ago",
@@ -7829,7 +7829,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/tesla-junior-back-end-356"
+		"applyUrl": "https://example.com/apply/tesla-entry-back-end-356"
 	},
 	{
 		"id": 357,
@@ -7921,10 +7921,10 @@
 	},
 	{
 		"id": 361,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Figma",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "security",
 		"posted": "2 weeks ago",
@@ -7939,7 +7939,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/figma-junior-security-361"
+		"applyUrl": "https://example.com/apply/figma-entry-security-361"
 	},
 	{
 		"id": 362,
@@ -8031,10 +8031,10 @@
 	},
 	{
 		"id": 366,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Hudson River Trading",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "full stack",
 		"posted": "4 days ago",
@@ -8049,7 +8049,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/hudson-river-trading-junior-full-stack-366"
+		"applyUrl": "https://example.com/apply/hudson-river-trading-entry-full-stack-366"
 	},
 	{
 		"id": 367,
@@ -8141,10 +8141,10 @@
 	},
 	{
 		"id": 371,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Block",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "infrastructure",
 		"posted": "3 weeks ago",
@@ -8159,7 +8159,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/block-junior-infrastructure-371"
+		"applyUrl": "https://example.com/apply/block-entry-infrastructure-371"
 	},
 	{
 		"id": 372,
@@ -8251,10 +8251,10 @@
 	},
 	{
 		"id": 376,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Oracle",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "front end",
 		"posted": "5 days ago",
@@ -8269,7 +8269,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/oracle-junior-front-end-376"
+		"applyUrl": "https://example.com/apply/oracle-entry-front-end-376"
 	},
 	{
 		"id": 377,
@@ -8361,10 +8361,10 @@
 	},
 	{
 		"id": 381,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Netflix",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "AI",
 		"posted": "1 day ago",
@@ -8379,7 +8379,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/netflix-junior-ai-381"
+		"applyUrl": "https://example.com/apply/netflix-entry-ai-381"
 	},
 	{
 		"id": 382,
@@ -8471,10 +8471,10 @@
 	},
 	{
 		"id": 386,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Snowflake",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "product engineer",
 		"posted": "6 days ago",
@@ -8489,7 +8489,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/snowflake-junior-product-engineer-386"
+		"applyUrl": "https://example.com/apply/snowflake-entry-product-engineer-386"
 	},
 	{
 		"id": 387,
@@ -8581,10 +8581,10 @@
 	},
 	{
 		"id": 391,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Two Sigma",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "back end",
 		"posted": "2 days ago",
@@ -8599,7 +8599,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/two-sigma-junior-back-end-391"
+		"applyUrl": "https://example.com/apply/two-sigma-entry-back-end-391"
 	},
 	{
 		"id": 392,
@@ -8691,10 +8691,10 @@
 	},
 	{
 		"id": 396,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Uber",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "security",
 		"posted": "1 week ago",
@@ -8709,7 +8709,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/uber-junior-security-396"
+		"applyUrl": "https://example.com/apply/uber-entry-security-396"
 	},
 	{
 		"id": 397,
@@ -8801,10 +8801,10 @@
 	},
 	{
 		"id": 401,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "ByteDance",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "full stack",
 		"posted": "3 days ago",
@@ -8819,7 +8819,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/bytedance-junior-full-stack-401"
+		"applyUrl": "https://example.com/apply/bytedance-entry-full-stack-401"
 	},
 	{
 		"id": 402,
@@ -8911,10 +8911,10 @@
 	},
 	{
 		"id": 406,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Meta",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "infrastructure",
 		"posted": "2 weeks ago",
@@ -8929,7 +8929,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/meta-junior-infrastructure-406"
+		"applyUrl": "https://example.com/apply/meta-entry-infrastructure-406"
 	},
 	{
 		"id": 407,
@@ -9021,10 +9021,10 @@
 	},
 	{
 		"id": 411,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Inflection",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "front end",
 		"posted": "4 days ago",
@@ -9039,7 +9039,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/inflection-junior-front-end-411"
+		"applyUrl": "https://example.com/apply/inflection-entry-front-end-411"
 	},
 	{
 		"id": 412,
@@ -9131,10 +9131,10 @@
 	},
 	{
 		"id": 416,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Elastic",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "AI",
 		"posted": "3 weeks ago",
@@ -9149,7 +9149,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/elastic-junior-ai-416"
+		"applyUrl": "https://example.com/apply/elastic-entry-ai-416"
 	},
 	{
 		"id": 417,
@@ -9241,10 +9241,10 @@
 	},
 	{
 		"id": 421,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Shopify",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "product engineer",
 		"posted": "5 days ago",
@@ -9259,7 +9259,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/shopify-junior-product-engineer-421"
+		"applyUrl": "https://example.com/apply/shopify-entry-product-engineer-421"
 	},
 	{
 		"id": 422,
@@ -9351,10 +9351,10 @@
 	},
 	{
 		"id": 426,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Reddit",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "back end",
 		"posted": "1 day ago",
@@ -9369,7 +9369,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/reddit-junior-back-end-426"
+		"applyUrl": "https://example.com/apply/reddit-entry-back-end-426"
 	},
 	{
 		"id": 427,
@@ -9461,10 +9461,10 @@
 	},
 	{
 		"id": 431,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "CrowdStrike",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "security",
 		"posted": "6 days ago",
@@ -9479,7 +9479,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/crowdstrike-junior-security-431"
+		"applyUrl": "https://example.com/apply/crowdstrike-entry-security-431"
 	},
 	{
 		"id": 432,
@@ -9571,10 +9571,10 @@
 	},
 	{
 		"id": 436,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Perplexity",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "full stack",
 		"posted": "2 days ago",
@@ -9589,7 +9589,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/perplexity-junior-full-stack-436"
+		"applyUrl": "https://example.com/apply/perplexity-entry-full-stack-436"
 	},
 	{
 		"id": 437,
@@ -9681,10 +9681,10 @@
 	},
 	{
 		"id": 441,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Atlassian",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "infrastructure",
 		"posted": "1 week ago",
@@ -9699,7 +9699,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/atlassian-junior-infrastructure-441"
+		"applyUrl": "https://example.com/apply/atlassian-entry-infrastructure-441"
 	},
 	{
 		"id": 442,
@@ -9791,10 +9791,10 @@
 	},
 	{
 		"id": 446,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Tower Research",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "front end",
 		"posted": "3 days ago",
@@ -9809,7 +9809,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/tower-research-junior-front-end-446"
+		"applyUrl": "https://example.com/apply/tower-research-entry-front-end-446"
 	},
 	{
 		"id": 447,
@@ -9901,10 +9901,10 @@
 	},
 	{
 		"id": 451,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Robinhood",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "AI",
 		"posted": "2 weeks ago",
@@ -9919,7 +9919,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/robinhood-junior-ai-451"
+		"applyUrl": "https://example.com/apply/robinhood-entry-ai-451"
 	},
 	{
 		"id": 452,
@@ -10011,10 +10011,10 @@
 	},
 	{
 		"id": 456,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Unity",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "product engineer",
 		"posted": "4 days ago",
@@ -10029,7 +10029,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/unity-junior-product-engineer-456"
+		"applyUrl": "https://example.com/apply/unity-entry-product-engineer-456"
 	},
 	{
 		"id": 457,
@@ -10121,10 +10121,10 @@
 	},
 	{
 		"id": 461,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "xAI",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "back end",
 		"posted": "3 weeks ago",
@@ -10139,7 +10139,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/xai-junior-back-end-461"
+		"applyUrl": "https://example.com/apply/xai-entry-back-end-461"
 	},
 	{
 		"id": 462,
@@ -10231,10 +10231,10 @@
 	},
 	{
 		"id": 466,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Datadog",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "security",
 		"posted": "5 days ago",
@@ -10249,7 +10249,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/datadog-junior-security-466"
+		"applyUrl": "https://example.com/apply/datadog-entry-security-466"
 	},
 	{
 		"id": 467,
@@ -10341,10 +10341,10 @@
 	},
 	{
 		"id": 471,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Five Rings",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "full stack",
 		"posted": "1 day ago",
@@ -10359,7 +10359,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/five-rings-junior-full-stack-471"
+		"applyUrl": "https://example.com/apply/five-rings-entry-full-stack-471"
 	},
 	{
 		"id": 472,
@@ -10451,10 +10451,10 @@
 	},
 	{
 		"id": 476,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Brex",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "infrastructure",
 		"posted": "6 days ago",
@@ -10469,7 +10469,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/brex-junior-infrastructure-476"
+		"applyUrl": "https://example.com/apply/brex-entry-infrastructure-476"
 	},
 	{
 		"id": 477,
@@ -10561,10 +10561,10 @@
 	},
 	{
 		"id": 481,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Qualcomm",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "front end",
 		"posted": "2 days ago",
@@ -10579,7 +10579,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/qualcomm-junior-front-end-481"
+		"applyUrl": "https://example.com/apply/qualcomm-entry-front-end-481"
 	},
 	{
 		"id": 482,
@@ -10671,10 +10671,10 @@
 	},
 	{
 		"id": 486,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Tesla",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "AI",
 		"posted": "1 week ago",
@@ -10689,7 +10689,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/tesla-junior-ai-486"
+		"applyUrl": "https://example.com/apply/tesla-entry-ai-486"
 	},
 	{
 		"id": 487,
@@ -10781,10 +10781,10 @@
 	},
 	{
 		"id": 491,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Figma",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "product engineer",
 		"posted": "3 days ago",
@@ -10799,7 +10799,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/figma-junior-product-engineer-491"
+		"applyUrl": "https://example.com/apply/figma-entry-product-engineer-491"
 	},
 	{
 		"id": 492,
@@ -10891,10 +10891,10 @@
 	},
 	{
 		"id": 496,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Hudson River Trading",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "back end",
 		"posted": "2 weeks ago",
@@ -10909,7 +10909,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/hudson-river-trading-junior-back-end-496"
+		"applyUrl": "https://example.com/apply/hudson-river-trading-entry-back-end-496"
 	},
 	{
 		"id": 497,
@@ -11001,10 +11001,10 @@
 	},
 	{
 		"id": 501,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Block",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "security",
 		"posted": "4 days ago",
@@ -11019,7 +11019,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/block-junior-security-501"
+		"applyUrl": "https://example.com/apply/block-entry-security-501"
 	},
 	{
 		"id": 502,
@@ -11111,10 +11111,10 @@
 	},
 	{
 		"id": 506,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Oracle",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "full stack",
 		"posted": "3 weeks ago",
@@ -11129,7 +11129,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/oracle-junior-full-stack-506"
+		"applyUrl": "https://example.com/apply/oracle-entry-full-stack-506"
 	},
 	{
 		"id": 507,
@@ -11221,10 +11221,10 @@
 	},
 	{
 		"id": 511,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Netflix",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "infrastructure",
 		"posted": "5 days ago",
@@ -11239,7 +11239,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/netflix-junior-infrastructure-511"
+		"applyUrl": "https://example.com/apply/netflix-entry-infrastructure-511"
 	},
 	{
 		"id": 512,
@@ -11331,10 +11331,10 @@
 	},
 	{
 		"id": 516,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Snowflake",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "front end",
 		"posted": "1 day ago",
@@ -11349,7 +11349,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/snowflake-junior-front-end-516"
+		"applyUrl": "https://example.com/apply/snowflake-entry-front-end-516"
 	},
 	{
 		"id": 517,
@@ -11441,10 +11441,10 @@
 	},
 	{
 		"id": 521,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Two Sigma",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "AI",
 		"posted": "6 days ago",
@@ -11459,7 +11459,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/two-sigma-junior-ai-521"
+		"applyUrl": "https://example.com/apply/two-sigma-entry-ai-521"
 	},
 	{
 		"id": 522,
@@ -11551,10 +11551,10 @@
 	},
 	{
 		"id": 526,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Uber",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "product engineer",
 		"posted": "2 days ago",
@@ -11569,7 +11569,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/uber-junior-product-engineer-526"
+		"applyUrl": "https://example.com/apply/uber-entry-product-engineer-526"
 	},
 	{
 		"id": 527,
@@ -11661,10 +11661,10 @@
 	},
 	{
 		"id": 531,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "ByteDance",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "back end",
 		"posted": "1 week ago",
@@ -11679,7 +11679,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/bytedance-junior-back-end-531"
+		"applyUrl": "https://example.com/apply/bytedance-entry-back-end-531"
 	},
 	{
 		"id": 532,
@@ -11771,10 +11771,10 @@
 	},
 	{
 		"id": 536,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Meta",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "security",
 		"posted": "3 days ago",
@@ -11789,7 +11789,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/meta-junior-security-536"
+		"applyUrl": "https://example.com/apply/meta-entry-security-536"
 	},
 	{
 		"id": 537,
@@ -11881,10 +11881,10 @@
 	},
 	{
 		"id": 541,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Inflection",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "full stack",
 		"posted": "2 weeks ago",
@@ -11899,7 +11899,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/inflection-junior-full-stack-541"
+		"applyUrl": "https://example.com/apply/inflection-entry-full-stack-541"
 	},
 	{
 		"id": 542,
@@ -11991,10 +11991,10 @@
 	},
 	{
 		"id": 546,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Elastic",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "infrastructure",
 		"posted": "4 days ago",
@@ -12009,7 +12009,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/elastic-junior-infrastructure-546"
+		"applyUrl": "https://example.com/apply/elastic-entry-infrastructure-546"
 	},
 	{
 		"id": 547,
@@ -12101,10 +12101,10 @@
 	},
 	{
 		"id": 551,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Shopify",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "front end",
 		"posted": "3 weeks ago",
@@ -12119,7 +12119,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/shopify-junior-front-end-551"
+		"applyUrl": "https://example.com/apply/shopify-entry-front-end-551"
 	},
 	{
 		"id": 552,
@@ -12211,10 +12211,10 @@
 	},
 	{
 		"id": 556,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Reddit",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "AI",
 		"posted": "5 days ago",
@@ -12229,7 +12229,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/reddit-junior-ai-556"
+		"applyUrl": "https://example.com/apply/reddit-entry-ai-556"
 	},
 	{
 		"id": 557,
@@ -12321,10 +12321,10 @@
 	},
 	{
 		"id": 561,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "CrowdStrike",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "product engineer",
 		"posted": "1 day ago",
@@ -12339,7 +12339,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/crowdstrike-junior-product-engineer-561"
+		"applyUrl": "https://example.com/apply/crowdstrike-entry-product-engineer-561"
 	},
 	{
 		"id": 562,
@@ -12431,10 +12431,10 @@
 	},
 	{
 		"id": 566,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Perplexity",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "back end",
 		"posted": "6 days ago",
@@ -12449,7 +12449,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/perplexity-junior-back-end-566"
+		"applyUrl": "https://example.com/apply/perplexity-entry-back-end-566"
 	},
 	{
 		"id": 567,
@@ -12541,10 +12541,10 @@
 	},
 	{
 		"id": 571,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Atlassian",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "security",
 		"posted": "2 days ago",
@@ -12559,7 +12559,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/atlassian-junior-security-571"
+		"applyUrl": "https://example.com/apply/atlassian-entry-security-571"
 	},
 	{
 		"id": 572,
@@ -12651,10 +12651,10 @@
 	},
 	{
 		"id": 576,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Tower Research",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "full stack",
 		"posted": "1 week ago",
@@ -12669,7 +12669,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/tower-research-junior-full-stack-576"
+		"applyUrl": "https://example.com/apply/tower-research-entry-full-stack-576"
 	},
 	{
 		"id": 577,
@@ -12761,10 +12761,10 @@
 	},
 	{
 		"id": 581,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Robinhood",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "infrastructure",
 		"posted": "3 days ago",
@@ -12779,7 +12779,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/robinhood-junior-infrastructure-581"
+		"applyUrl": "https://example.com/apply/robinhood-entry-infrastructure-581"
 	},
 	{
 		"id": 582,
@@ -12871,10 +12871,10 @@
 	},
 	{
 		"id": 586,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Unity",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "front end",
 		"posted": "2 weeks ago",
@@ -12889,7 +12889,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/unity-junior-front-end-586"
+		"applyUrl": "https://example.com/apply/unity-entry-front-end-586"
 	},
 	{
 		"id": 587,
@@ -12981,10 +12981,10 @@
 	},
 	{
 		"id": 591,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "xAI",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "AI",
 		"posted": "4 days ago",
@@ -12999,7 +12999,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/xai-junior-ai-591"
+		"applyUrl": "https://example.com/apply/xai-entry-ai-591"
 	},
 	{
 		"id": 592,
@@ -13091,10 +13091,10 @@
 	},
 	{
 		"id": 596,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Datadog",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "product engineer",
 		"posted": "3 weeks ago",
@@ -13109,7 +13109,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/datadog-junior-product-engineer-596"
+		"applyUrl": "https://example.com/apply/datadog-entry-product-engineer-596"
 	},
 	{
 		"id": 597,
@@ -13201,10 +13201,10 @@
 	},
 	{
 		"id": 601,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Five Rings",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "back end",
 		"posted": "5 days ago",
@@ -13219,7 +13219,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/five-rings-junior-back-end-601"
+		"applyUrl": "https://example.com/apply/five-rings-entry-back-end-601"
 	},
 	{
 		"id": 602,
@@ -13311,10 +13311,10 @@
 	},
 	{
 		"id": 606,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Brex",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "security",
 		"posted": "1 day ago",
@@ -13329,7 +13329,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/brex-junior-security-606"
+		"applyUrl": "https://example.com/apply/brex-entry-security-606"
 	},
 	{
 		"id": 607,
@@ -13421,10 +13421,10 @@
 	},
 	{
 		"id": 611,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Qualcomm",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "full stack",
 		"posted": "6 days ago",
@@ -13439,7 +13439,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/qualcomm-junior-full-stack-611"
+		"applyUrl": "https://example.com/apply/qualcomm-entry-full-stack-611"
 	},
 	{
 		"id": 612,
@@ -13531,10 +13531,10 @@
 	},
 	{
 		"id": 616,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Tesla",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "infrastructure",
 		"posted": "2 days ago",
@@ -13549,7 +13549,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/tesla-junior-infrastructure-616"
+		"applyUrl": "https://example.com/apply/tesla-entry-infrastructure-616"
 	},
 	{
 		"id": 617,
@@ -13641,10 +13641,10 @@
 	},
 	{
 		"id": 621,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Figma",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "front end",
 		"posted": "1 week ago",
@@ -13659,7 +13659,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/figma-junior-front-end-621"
+		"applyUrl": "https://example.com/apply/figma-entry-front-end-621"
 	},
 	{
 		"id": 622,
@@ -13751,10 +13751,10 @@
 	},
 	{
 		"id": 626,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Hudson River Trading",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "AI",
 		"posted": "3 days ago",
@@ -13769,7 +13769,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/hudson-river-trading-junior-ai-626"
+		"applyUrl": "https://example.com/apply/hudson-river-trading-entry-ai-626"
 	},
 	{
 		"id": 627,
@@ -13861,10 +13861,10 @@
 	},
 	{
 		"id": 631,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Block",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "product engineer",
 		"posted": "2 weeks ago",
@@ -13879,7 +13879,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/block-junior-product-engineer-631"
+		"applyUrl": "https://example.com/apply/block-entry-product-engineer-631"
 	},
 	{
 		"id": 632,
@@ -13971,10 +13971,10 @@
 	},
 	{
 		"id": 636,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Oracle",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "back end",
 		"posted": "4 days ago",
@@ -13989,7 +13989,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/oracle-junior-back-end-636"
+		"applyUrl": "https://example.com/apply/oracle-entry-back-end-636"
 	},
 	{
 		"id": 637,
@@ -14081,10 +14081,10 @@
 	},
 	{
 		"id": 641,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Netflix",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "security",
 		"posted": "3 weeks ago",
@@ -14099,7 +14099,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/netflix-junior-security-641"
+		"applyUrl": "https://example.com/apply/netflix-entry-security-641"
 	},
 	{
 		"id": 642,
@@ -14191,10 +14191,10 @@
 	},
 	{
 		"id": 646,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Snowflake",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "full stack",
 		"posted": "5 days ago",
@@ -14209,7 +14209,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/snowflake-junior-full-stack-646"
+		"applyUrl": "https://example.com/apply/snowflake-entry-full-stack-646"
 	},
 	{
 		"id": 647,
@@ -14301,10 +14301,10 @@
 	},
 	{
 		"id": 651,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Two Sigma",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "infrastructure",
 		"posted": "1 day ago",
@@ -14319,7 +14319,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/two-sigma-junior-infrastructure-651"
+		"applyUrl": "https://example.com/apply/two-sigma-entry-infrastructure-651"
 	},
 	{
 		"id": 652,
@@ -14411,10 +14411,10 @@
 	},
 	{
 		"id": 656,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Uber",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "front end",
 		"posted": "6 days ago",
@@ -14429,7 +14429,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/uber-junior-front-end-656"
+		"applyUrl": "https://example.com/apply/uber-entry-front-end-656"
 	},
 	{
 		"id": 657,
@@ -14521,10 +14521,10 @@
 	},
 	{
 		"id": 661,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "ByteDance",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "AI",
 		"posted": "2 days ago",
@@ -14539,7 +14539,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/bytedance-junior-ai-661"
+		"applyUrl": "https://example.com/apply/bytedance-entry-ai-661"
 	},
 	{
 		"id": 662,
@@ -14631,10 +14631,10 @@
 	},
 	{
 		"id": 666,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Meta",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "product engineer",
 		"posted": "1 week ago",
@@ -14649,7 +14649,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/meta-junior-product-engineer-666"
+		"applyUrl": "https://example.com/apply/meta-entry-product-engineer-666"
 	},
 	{
 		"id": 667,
@@ -14741,10 +14741,10 @@
 	},
 	{
 		"id": 671,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Inflection",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "back end",
 		"posted": "3 days ago",
@@ -14759,7 +14759,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/inflection-junior-back-end-671"
+		"applyUrl": "https://example.com/apply/inflection-entry-back-end-671"
 	},
 	{
 		"id": 672,
@@ -14851,10 +14851,10 @@
 	},
 	{
 		"id": 676,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Elastic",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "security",
 		"posted": "2 weeks ago",
@@ -14869,7 +14869,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/elastic-junior-security-676"
+		"applyUrl": "https://example.com/apply/elastic-entry-security-676"
 	},
 	{
 		"id": 677,
@@ -14961,10 +14961,10 @@
 	},
 	{
 		"id": 681,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Shopify",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "full stack",
 		"posted": "4 days ago",
@@ -14979,7 +14979,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/shopify-junior-full-stack-681"
+		"applyUrl": "https://example.com/apply/shopify-entry-full-stack-681"
 	},
 	{
 		"id": 682,
@@ -15071,10 +15071,10 @@
 	},
 	{
 		"id": 686,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Reddit",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "infrastructure",
 		"posted": "3 weeks ago",
@@ -15089,7 +15089,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/reddit-junior-infrastructure-686"
+		"applyUrl": "https://example.com/apply/reddit-entry-infrastructure-686"
 	},
 	{
 		"id": 687,
@@ -15181,10 +15181,10 @@
 	},
 	{
 		"id": 691,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "CrowdStrike",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "front end",
 		"posted": "5 days ago",
@@ -15199,7 +15199,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/crowdstrike-junior-front-end-691"
+		"applyUrl": "https://example.com/apply/crowdstrike-entry-front-end-691"
 	},
 	{
 		"id": 692,
@@ -15291,10 +15291,10 @@
 	},
 	{
 		"id": 696,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Perplexity",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "AI",
 		"posted": "1 day ago",
@@ -15309,7 +15309,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/perplexity-junior-ai-696"
+		"applyUrl": "https://example.com/apply/perplexity-entry-ai-696"
 	},
 	{
 		"id": 697,
@@ -15401,10 +15401,10 @@
 	},
 	{
 		"id": 701,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Atlassian",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "product engineer",
 		"posted": "6 days ago",
@@ -15419,7 +15419,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/atlassian-junior-product-engineer-701"
+		"applyUrl": "https://example.com/apply/atlassian-entry-product-engineer-701"
 	},
 	{
 		"id": 702,
@@ -15511,10 +15511,10 @@
 	},
 	{
 		"id": 706,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Tower Research",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "back end",
 		"posted": "2 days ago",
@@ -15529,7 +15529,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/tower-research-junior-back-end-706"
+		"applyUrl": "https://example.com/apply/tower-research-entry-back-end-706"
 	},
 	{
 		"id": 707,
@@ -15621,10 +15621,10 @@
 	},
 	{
 		"id": 711,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Robinhood",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "security",
 		"posted": "1 week ago",
@@ -15639,7 +15639,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/robinhood-junior-security-711"
+		"applyUrl": "https://example.com/apply/robinhood-entry-security-711"
 	},
 	{
 		"id": 712,
@@ -15731,10 +15731,10 @@
 	},
 	{
 		"id": 716,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Unity",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "full stack",
 		"posted": "3 days ago",
@@ -15749,7 +15749,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/unity-junior-full-stack-716"
+		"applyUrl": "https://example.com/apply/unity-entry-full-stack-716"
 	},
 	{
 		"id": 717,
@@ -15841,10 +15841,10 @@
 	},
 	{
 		"id": 721,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "xAI",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "infrastructure",
 		"posted": "2 weeks ago",
@@ -15859,7 +15859,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/xai-junior-infrastructure-721"
+		"applyUrl": "https://example.com/apply/xai-entry-infrastructure-721"
 	},
 	{
 		"id": 722,
@@ -15951,10 +15951,10 @@
 	},
 	{
 		"id": 726,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Datadog",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "front end",
 		"posted": "4 days ago",
@@ -15969,7 +15969,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/datadog-junior-front-end-726"
+		"applyUrl": "https://example.com/apply/datadog-entry-front-end-726"
 	},
 	{
 		"id": 727,
@@ -16061,10 +16061,10 @@
 	},
 	{
 		"id": 731,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Five Rings",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "AI",
 		"posted": "3 weeks ago",
@@ -16079,7 +16079,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/five-rings-junior-ai-731"
+		"applyUrl": "https://example.com/apply/five-rings-entry-ai-731"
 	},
 	{
 		"id": 732,
@@ -16171,10 +16171,10 @@
 	},
 	{
 		"id": 736,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Brex",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "product engineer",
 		"posted": "5 days ago",
@@ -16189,7 +16189,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/brex-junior-product-engineer-736"
+		"applyUrl": "https://example.com/apply/brex-entry-product-engineer-736"
 	},
 	{
 		"id": 737,
@@ -16281,10 +16281,10 @@
 	},
 	{
 		"id": 741,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Qualcomm",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "back end",
 		"posted": "1 day ago",
@@ -16299,7 +16299,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/qualcomm-junior-back-end-741"
+		"applyUrl": "https://example.com/apply/qualcomm-entry-back-end-741"
 	},
 	{
 		"id": 742,
@@ -16391,10 +16391,10 @@
 	},
 	{
 		"id": 746,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Tesla",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "security",
 		"posted": "6 days ago",
@@ -16409,7 +16409,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/tesla-junior-security-746"
+		"applyUrl": "https://example.com/apply/tesla-entry-security-746"
 	},
 	{
 		"id": 747,
@@ -16501,10 +16501,10 @@
 	},
 	{
 		"id": 751,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Figma",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "full stack",
 		"posted": "2 days ago",
@@ -16519,7 +16519,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/figma-junior-full-stack-751"
+		"applyUrl": "https://example.com/apply/figma-entry-full-stack-751"
 	},
 	{
 		"id": 752,
@@ -16611,10 +16611,10 @@
 	},
 	{
 		"id": 756,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Hudson River Trading",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "infrastructure",
 		"posted": "1 week ago",
@@ -16629,7 +16629,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/hudson-river-trading-junior-infrastructure-756"
+		"applyUrl": "https://example.com/apply/hudson-river-trading-entry-infrastructure-756"
 	},
 	{
 		"id": 757,
@@ -16721,10 +16721,10 @@
 	},
 	{
 		"id": 761,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Block",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "front end",
 		"posted": "3 days ago",
@@ -16739,7 +16739,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/block-junior-front-end-761"
+		"applyUrl": "https://example.com/apply/block-entry-front-end-761"
 	},
 	{
 		"id": 762,
@@ -16831,10 +16831,10 @@
 	},
 	{
 		"id": 766,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Oracle",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "AI",
 		"posted": "2 weeks ago",
@@ -16849,7 +16849,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/oracle-junior-ai-766"
+		"applyUrl": "https://example.com/apply/oracle-entry-ai-766"
 	},
 	{
 		"id": 767,
@@ -16941,10 +16941,10 @@
 	},
 	{
 		"id": 771,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Netflix",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "product engineer",
 		"posted": "4 days ago",
@@ -16959,7 +16959,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/netflix-junior-product-engineer-771"
+		"applyUrl": "https://example.com/apply/netflix-entry-product-engineer-771"
 	},
 	{
 		"id": 772,
@@ -17051,10 +17051,10 @@
 	},
 	{
 		"id": 776,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Snowflake",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "back end",
 		"posted": "3 weeks ago",
@@ -17069,7 +17069,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/snowflake-junior-back-end-776"
+		"applyUrl": "https://example.com/apply/snowflake-entry-back-end-776"
 	},
 	{
 		"id": 777,
@@ -17161,10 +17161,10 @@
 	},
 	{
 		"id": 781,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Two Sigma",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "security",
 		"posted": "5 days ago",
@@ -17179,7 +17179,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/two-sigma-junior-security-781"
+		"applyUrl": "https://example.com/apply/two-sigma-entry-security-781"
 	},
 	{
 		"id": 782,
@@ -17271,10 +17271,10 @@
 	},
 	{
 		"id": 786,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Uber",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "full stack",
 		"posted": "1 day ago",
@@ -17289,7 +17289,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/uber-junior-full-stack-786"
+		"applyUrl": "https://example.com/apply/uber-entry-full-stack-786"
 	},
 	{
 		"id": 787,
@@ -17381,10 +17381,10 @@
 	},
 	{
 		"id": 791,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "ByteDance",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "infrastructure",
 		"posted": "6 days ago",
@@ -17399,7 +17399,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/bytedance-junior-infrastructure-791"
+		"applyUrl": "https://example.com/apply/bytedance-entry-infrastructure-791"
 	},
 	{
 		"id": 792,
@@ -17491,10 +17491,10 @@
 	},
 	{
 		"id": 796,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Meta",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "front end",
 		"posted": "2 days ago",
@@ -17509,7 +17509,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/meta-junior-front-end-796"
+		"applyUrl": "https://example.com/apply/meta-entry-front-end-796"
 	},
 	{
 		"id": 797,
@@ -17601,10 +17601,10 @@
 	},
 	{
 		"id": 801,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Inflection",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "AI",
 		"posted": "1 week ago",
@@ -17619,7 +17619,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/inflection-junior-ai-801"
+		"applyUrl": "https://example.com/apply/inflection-entry-ai-801"
 	},
 	{
 		"id": 802,
@@ -17711,10 +17711,10 @@
 	},
 	{
 		"id": 806,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Elastic",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "product engineer",
 		"posted": "3 days ago",
@@ -17729,7 +17729,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/elastic-junior-product-engineer-806"
+		"applyUrl": "https://example.com/apply/elastic-entry-product-engineer-806"
 	},
 	{
 		"id": 807,
@@ -17821,10 +17821,10 @@
 	},
 	{
 		"id": 811,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Shopify",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "back end",
 		"posted": "2 weeks ago",
@@ -17839,7 +17839,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/shopify-junior-back-end-811"
+		"applyUrl": "https://example.com/apply/shopify-entry-back-end-811"
 	},
 	{
 		"id": 812,
@@ -17931,10 +17931,10 @@
 	},
 	{
 		"id": 816,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Reddit",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "security",
 		"posted": "4 days ago",
@@ -17949,7 +17949,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/reddit-junior-security-816"
+		"applyUrl": "https://example.com/apply/reddit-entry-security-816"
 	},
 	{
 		"id": 817,
@@ -18041,10 +18041,10 @@
 	},
 	{
 		"id": 821,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "CrowdStrike",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "full stack",
 		"posted": "3 weeks ago",
@@ -18059,7 +18059,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/crowdstrike-junior-full-stack-821"
+		"applyUrl": "https://example.com/apply/crowdstrike-entry-full-stack-821"
 	},
 	{
 		"id": 822,
@@ -18151,10 +18151,10 @@
 	},
 	{
 		"id": 826,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Perplexity",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "infrastructure",
 		"posted": "5 days ago",
@@ -18169,7 +18169,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/perplexity-junior-infrastructure-826"
+		"applyUrl": "https://example.com/apply/perplexity-entry-infrastructure-826"
 	},
 	{
 		"id": 827,
@@ -18261,10 +18261,10 @@
 	},
 	{
 		"id": 831,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Atlassian",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "front end",
 		"posted": "1 day ago",
@@ -18279,7 +18279,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/atlassian-junior-front-end-831"
+		"applyUrl": "https://example.com/apply/atlassian-entry-front-end-831"
 	},
 	{
 		"id": 832,
@@ -18371,10 +18371,10 @@
 	},
 	{
 		"id": 836,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Tower Research",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "AI",
 		"posted": "6 days ago",
@@ -18389,7 +18389,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/tower-research-junior-ai-836"
+		"applyUrl": "https://example.com/apply/tower-research-entry-ai-836"
 	},
 	{
 		"id": 837,
@@ -18481,10 +18481,10 @@
 	},
 	{
 		"id": 841,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Robinhood",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "product engineer",
 		"posted": "2 days ago",
@@ -18499,7 +18499,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/robinhood-junior-product-engineer-841"
+		"applyUrl": "https://example.com/apply/robinhood-entry-product-engineer-841"
 	},
 	{
 		"id": 842,
@@ -18591,10 +18591,10 @@
 	},
 	{
 		"id": 846,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Unity",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "back end",
 		"posted": "1 week ago",
@@ -18609,7 +18609,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/unity-junior-back-end-846"
+		"applyUrl": "https://example.com/apply/unity-entry-back-end-846"
 	},
 	{
 		"id": 847,
@@ -18701,10 +18701,10 @@
 	},
 	{
 		"id": 851,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "xAI",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "security",
 		"posted": "3 days ago",
@@ -18719,7 +18719,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/xai-junior-security-851"
+		"applyUrl": "https://example.com/apply/xai-entry-security-851"
 	},
 	{
 		"id": 852,
@@ -18811,10 +18811,10 @@
 	},
 	{
 		"id": 856,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Datadog",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "full stack",
 		"posted": "2 weeks ago",
@@ -18829,7 +18829,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/datadog-junior-full-stack-856"
+		"applyUrl": "https://example.com/apply/datadog-entry-full-stack-856"
 	},
 	{
 		"id": 857,
@@ -18921,10 +18921,10 @@
 	},
 	{
 		"id": 861,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Five Rings",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "infrastructure",
 		"posted": "4 days ago",
@@ -18939,7 +18939,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/five-rings-junior-infrastructure-861"
+		"applyUrl": "https://example.com/apply/five-rings-entry-infrastructure-861"
 	},
 	{
 		"id": 862,
@@ -19031,10 +19031,10 @@
 	},
 	{
 		"id": 866,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Brex",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "front end",
 		"posted": "3 weeks ago",
@@ -19049,7 +19049,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/brex-junior-front-end-866"
+		"applyUrl": "https://example.com/apply/brex-entry-front-end-866"
 	},
 	{
 		"id": 867,
@@ -19141,10 +19141,10 @@
 	},
 	{
 		"id": 871,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Qualcomm",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "AI",
 		"posted": "5 days ago",
@@ -19159,7 +19159,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/qualcomm-junior-ai-871"
+		"applyUrl": "https://example.com/apply/qualcomm-entry-ai-871"
 	},
 	{
 		"id": 872,
@@ -19251,10 +19251,10 @@
 	},
 	{
 		"id": 876,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Tesla",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "product engineer",
 		"posted": "1 day ago",
@@ -19269,7 +19269,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/tesla-junior-product-engineer-876"
+		"applyUrl": "https://example.com/apply/tesla-entry-product-engineer-876"
 	},
 	{
 		"id": 877,
@@ -19361,10 +19361,10 @@
 	},
 	{
 		"id": 881,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Figma",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "back end",
 		"posted": "6 days ago",
@@ -19379,7 +19379,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/figma-junior-back-end-881"
+		"applyUrl": "https://example.com/apply/figma-entry-back-end-881"
 	},
 	{
 		"id": 882,
@@ -19471,10 +19471,10 @@
 	},
 	{
 		"id": 886,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Hudson River Trading",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "security",
 		"posted": "2 days ago",
@@ -19489,7 +19489,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/hudson-river-trading-junior-security-886"
+		"applyUrl": "https://example.com/apply/hudson-river-trading-entry-security-886"
 	},
 	{
 		"id": 887,
@@ -19581,10 +19581,10 @@
 	},
 	{
 		"id": 891,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Block",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "full stack",
 		"posted": "1 week ago",
@@ -19599,7 +19599,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/block-junior-full-stack-891"
+		"applyUrl": "https://example.com/apply/block-entry-full-stack-891"
 	},
 	{
 		"id": 892,
@@ -19691,10 +19691,10 @@
 	},
 	{
 		"id": 896,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Oracle",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "infrastructure",
 		"posted": "3 days ago",
@@ -19709,7 +19709,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/oracle-junior-infrastructure-896"
+		"applyUrl": "https://example.com/apply/oracle-entry-infrastructure-896"
 	},
 	{
 		"id": 897,
@@ -19801,10 +19801,10 @@
 	},
 	{
 		"id": 901,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Netflix",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "front end",
 		"posted": "2 weeks ago",
@@ -19819,7 +19819,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/netflix-junior-front-end-901"
+		"applyUrl": "https://example.com/apply/netflix-entry-front-end-901"
 	},
 	{
 		"id": 902,
@@ -19911,10 +19911,10 @@
 	},
 	{
 		"id": 906,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Snowflake",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "AI",
 		"posted": "4 days ago",
@@ -19929,7 +19929,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/snowflake-junior-ai-906"
+		"applyUrl": "https://example.com/apply/snowflake-entry-ai-906"
 	},
 	{
 		"id": 907,
@@ -20021,10 +20021,10 @@
 	},
 	{
 		"id": 911,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Two Sigma",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "product engineer",
 		"posted": "3 weeks ago",
@@ -20039,7 +20039,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/two-sigma-junior-product-engineer-911"
+		"applyUrl": "https://example.com/apply/two-sigma-entry-product-engineer-911"
 	},
 	{
 		"id": 912,
@@ -20131,10 +20131,10 @@
 	},
 	{
 		"id": 916,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Uber",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "back end",
 		"posted": "5 days ago",
@@ -20149,7 +20149,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/uber-junior-back-end-916"
+		"applyUrl": "https://example.com/apply/uber-entry-back-end-916"
 	},
 	{
 		"id": 917,
@@ -20241,10 +20241,10 @@
 	},
 	{
 		"id": 921,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "ByteDance",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "security",
 		"posted": "1 day ago",
@@ -20259,7 +20259,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/bytedance-junior-security-921"
+		"applyUrl": "https://example.com/apply/bytedance-entry-security-921"
 	},
 	{
 		"id": 922,
@@ -20351,10 +20351,10 @@
 	},
 	{
 		"id": 926,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Meta",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "full stack",
 		"posted": "6 days ago",
@@ -20369,7 +20369,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/meta-junior-full-stack-926"
+		"applyUrl": "https://example.com/apply/meta-entry-full-stack-926"
 	},
 	{
 		"id": 927,
@@ -20461,10 +20461,10 @@
 	},
 	{
 		"id": 931,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Inflection",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "infrastructure",
 		"posted": "2 days ago",
@@ -20479,7 +20479,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/inflection-junior-infrastructure-931"
+		"applyUrl": "https://example.com/apply/inflection-entry-infrastructure-931"
 	},
 	{
 		"id": 932,
@@ -20571,10 +20571,10 @@
 	},
 	{
 		"id": 936,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Elastic",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "front end",
 		"posted": "1 week ago",
@@ -20589,7 +20589,7 @@
 			"Good communication and collaboration skills",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/elastic-junior-front-end-936"
+		"applyUrl": "https://example.com/apply/elastic-entry-front-end-936"
 	},
 	{
 		"id": 937,
@@ -20681,10 +20681,10 @@
 	},
 	{
 		"id": 941,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Shopify",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "AI",
 		"posted": "3 days ago",
@@ -20699,7 +20699,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/shopify-junior-ai-941"
+		"applyUrl": "https://example.com/apply/shopify-entry-ai-941"
 	},
 	{
 		"id": 942,
@@ -20791,10 +20791,10 @@
 	},
 	{
 		"id": 946,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "Reddit",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "product engineer",
 		"posted": "2 weeks ago",
@@ -20809,7 +20809,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/reddit-junior-product-engineer-946"
+		"applyUrl": "https://example.com/apply/reddit-entry-product-engineer-946"
 	},
 	{
 		"id": 947,
@@ -20901,10 +20901,10 @@
 	},
 	{
 		"id": 951,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "CrowdStrike",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "back end",
 		"posted": "4 days ago",
@@ -20919,7 +20919,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/crowdstrike-junior-back-end-951"
+		"applyUrl": "https://example.com/apply/crowdstrike-entry-back-end-951"
 	},
 	{
 		"id": 952,
@@ -21011,10 +21011,10 @@
 	},
 	{
 		"id": 956,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Perplexity",
 		"salary": "$102k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "security",
 		"posted": "3 weeks ago",
@@ -21029,7 +21029,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/perplexity-junior-security-956"
+		"applyUrl": "https://example.com/apply/perplexity-entry-security-956"
 	},
 	{
 		"id": 957,
@@ -21121,10 +21121,10 @@
 	},
 	{
 		"id": 961,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Atlassian",
 		"salary": "$107k – $135k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "full stack",
 		"posted": "5 days ago",
@@ -21139,7 +21139,7 @@
 			"Good communication and collaboration skills",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/atlassian-junior-full-stack-961"
+		"applyUrl": "https://example.com/apply/atlassian-entry-full-stack-961"
 	},
 	{
 		"id": 962,
@@ -21231,10 +21231,10 @@
 	},
 	{
 		"id": 966,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Tower Research",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "infrastructure",
 		"posted": "1 day ago",
@@ -21249,7 +21249,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/tower-research-junior-infrastructure-966"
+		"applyUrl": "https://example.com/apply/tower-research-entry-infrastructure-966"
 	},
 	{
 		"id": 967,
@@ -21341,10 +21341,10 @@
 	},
 	{
 		"id": 971,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Robinhood",
 		"salary": "$102k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "front end",
 		"posted": "6 days ago",
@@ -21359,7 +21359,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/robinhood-junior-front-end-971"
+		"applyUrl": "https://example.com/apply/robinhood-entry-front-end-971"
 	},
 	{
 		"id": 972,
@@ -21451,10 +21451,10 @@
 	},
 	{
 		"id": 976,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Unity",
 		"salary": "$107k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "AI",
 		"posted": "2 days ago",
@@ -21469,7 +21469,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/unity-junior-ai-976"
+		"applyUrl": "https://example.com/apply/unity-entry-ai-976"
 	},
 	{
 		"id": 977,
@@ -21561,10 +21561,10 @@
 	},
 	{
 		"id": 981,
-		"title": "Junior Product Engineer",
+		"title": "Entry Product Engineer",
 		"company": "xAI",
 		"salary": "$112k – $140k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "product engineer",
 		"posted": "1 week ago",
@@ -21579,7 +21579,7 @@
 			"1+ year of professional engineering experience",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/xai-junior-product-engineer-981"
+		"applyUrl": "https://example.com/apply/xai-entry-product-engineer-981"
 	},
 	{
 		"id": 982,
@@ -21671,10 +21671,10 @@
 	},
 	{
 		"id": 986,
-		"title": "Junior Backend Engineer",
+		"title": "Entry Backend Engineer",
 		"company": "Datadog",
 		"salary": "$102k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "back end",
 		"posted": "3 days ago",
@@ -21689,7 +21689,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"1+ year of professional engineering experience"
 		],
-		"applyUrl": "https://example.com/apply/datadog-junior-back-end-986"
+		"applyUrl": "https://example.com/apply/datadog-entry-back-end-986"
 	},
 	{
 		"id": 987,
@@ -21781,10 +21781,10 @@
 	},
 	{
 		"id": 991,
-		"title": "Junior Security Engineer",
+		"title": "Entry Security Engineer",
 		"company": "Five Rings",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "security",
 		"posted": "2 weeks ago",
@@ -21799,7 +21799,7 @@
 			"Good communication and collaboration skills",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/five-rings-junior-security-991"
+		"applyUrl": "https://example.com/apply/five-rings-entry-security-991"
 	},
 	{
 		"id": 992,
@@ -21891,10 +21891,10 @@
 	},
 	{
 		"id": 996,
-		"title": "Junior Full Stack Engineer",
+		"title": "Entry Full Stack Engineer",
 		"company": "Brex",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "new york city",
 		"specialty": "full stack",
 		"posted": "4 days ago",
@@ -21909,7 +21909,7 @@
 			"Familiarity with Git and modern dev workflows",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/brex-junior-full-stack-996"
+		"applyUrl": "https://example.com/apply/brex-entry-full-stack-996"
 	},
 	{
 		"id": 997,
@@ -22001,10 +22001,10 @@
 	},
 	{
 		"id": 1001,
-		"title": "Junior Infrastructure Engineer",
+		"title": "Entry Infrastructure Engineer",
 		"company": "Qualcomm",
 		"salary": "$102k – $130k",
-		"level": "junior",
+		"level": "entry",
 		"location": "san francisco",
 		"specialty": "infrastructure",
 		"posted": "3 weeks ago",
@@ -22019,7 +22019,7 @@
 			"1+ year of professional engineering experience",
 			"Strong fundamentals in data structures and algorithms"
 		],
-		"applyUrl": "https://example.com/apply/qualcomm-junior-infrastructure-1001"
+		"applyUrl": "https://example.com/apply/qualcomm-entry-infrastructure-1001"
 	},
 	{
 		"id": 1002,
@@ -22111,10 +22111,10 @@
 	},
 	{
 		"id": 1006,
-		"title": "Junior Frontend Engineer",
+		"title": "Entry Frontend Engineer",
 		"company": "Tesla",
 		"salary": "$107k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "seattle",
 		"specialty": "front end",
 		"posted": "5 days ago",
@@ -22129,7 +22129,7 @@
 			"1+ year of professional engineering experience",
 			"Familiarity with Git and modern dev workflows"
 		],
-		"applyUrl": "https://example.com/apply/tesla-junior-front-end-1006"
+		"applyUrl": "https://example.com/apply/tesla-entry-front-end-1006"
 	},
 	{
 		"id": 1007,
@@ -22221,10 +22221,10 @@
 	},
 	{
 		"id": 1011,
-		"title": "Junior AI Engineer",
+		"title": "Entry AI Engineer",
 		"company": "Figma",
 		"salary": "$112k – $145k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "AI",
 		"posted": "1 day ago",
@@ -22239,7 +22239,7 @@
 			"Strong fundamentals in data structures and algorithms",
 			"Good communication and collaboration skills"
 		],
-		"applyUrl": "https://example.com/apply/figma-junior-ai-1011"
+		"applyUrl": "https://example.com/apply/figma-entry-ai-1011"
 	},
 	{
 		"id": 1012,
@@ -22419,10 +22419,10 @@
 	},
 	{
 		"id": 1020,
-		"title": "Junior iOS Engineer",
+		"title": "Entry iOS Engineer",
 		"company": "Discord",
 		"salary": "$125k – $150k",
-		"level": "junior",
+		"level": "entry",
 		"location": "remote",
 		"specialty": "iOS",
 		"posted": "5 days ago",
@@ -22437,7 +22437,7 @@
 			"Familiarity with Swift and UIKit or SwiftUI",
 			"Eagerness to learn and grow under mentorship"
 		],
-		"applyUrl": "https://example.com/apply/discord-junior-ios-1020"
+		"applyUrl": "https://example.com/apply/discord-entry-ios-1020"
 	},
 	{
 		"id": 1021,
