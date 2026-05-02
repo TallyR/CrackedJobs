@@ -292,11 +292,234 @@ import Layout from '../layouts/Layout.astro';
 		border-radius: 12px;
 		font-size: 14px;
 	}
+
+	.jb-modal-overlay {
+		position: fixed;
+		inset: 0;
+		background: rgba(0, 0, 0, 0.7);
+		backdrop-filter: blur(6px);
+		-webkit-backdrop-filter: blur(6px);
+		display: flex;
+		align-items: flex-start;
+		justify-content: center;
+		padding: 64px 24px;
+		z-index: 50;
+		overflow-y: auto;
+		animation: jb-overlay-in 160ms ease-out;
+	}
+
+	@keyframes jb-overlay-in {
+		from {
+			opacity: 0;
+		}
+		to {
+			opacity: 1;
+		}
+	}
+
+	.jb-modal {
+		width: 100%;
+		max-width: 640px;
+		background: var(--panel);
+		border: 1px solid var(--border-strong);
+		border-radius: 14px;
+		padding: 28px 28px 24px;
+		position: relative;
+		animation: jb-modal-in 180ms cubic-bezier(0.2, 0.8, 0.2, 1);
+	}
+
+	@keyframes jb-modal-in {
+		from {
+			opacity: 0;
+			transform: translateY(8px) scale(0.98);
+		}
+		to {
+			opacity: 1;
+			transform: translateY(0) scale(1);
+		}
+	}
+
+	.jb-modal-close {
+		position: absolute;
+		top: 16px;
+		right: 16px;
+		width: 32px;
+		height: 32px;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		border: 1px solid var(--border);
+		border-radius: 8px;
+		background: transparent;
+		color: var(--fg-muted);
+		cursor: pointer;
+		transition: border-color 120ms ease, color 120ms ease;
+	}
+
+	.jb-modal-close:hover {
+		border-color: var(--border-strong);
+		color: var(--fg);
+	}
+
+	.jb-modal-close svg {
+		width: 14px;
+		height: 14px;
+	}
+
+	.jb-modal-meta {
+		font-family: var(--font-mono);
+		font-size: 11px;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+		color: var(--fg-muted);
+		margin-bottom: 10px;
+	}
+
+	.jb-modal h2 {
+		margin: 0 0 6px;
+		font-size: 24px;
+		font-weight: 600;
+		letter-spacing: -0.02em;
+		line-height: 1.2;
+	}
+
+	.jb-modal-company {
+		color: var(--fg-muted);
+		font-size: 14px;
+	}
+
+	.jb-modal-pills {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 6px;
+		margin: 16px 0 22px;
+	}
+
+	.jb-modal-pill {
+		font-family: var(--font-mono);
+		font-size: 11px;
+		padding: 3px 8px;
+		border-radius: 4px;
+		background: transparent;
+		border: 1px solid var(--border);
+		color: var(--fg-muted);
+		text-transform: lowercase;
+	}
+
+	.jb-modal-pill.salary {
+		color: var(--fg);
+		border-color: var(--border-strong);
+	}
+
+	.jb-modal-section {
+		margin-bottom: 22px;
+	}
+
+	.jb-modal-section:last-of-type {
+		margin-bottom: 0;
+	}
+
+	.jb-modal-section-label {
+		font-family: var(--font-mono);
+		font-size: 11px;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+		color: var(--fg-muted);
+		margin-bottom: 10px;
+		font-weight: 500;
+	}
+
+	.jb-modal-section p {
+		margin: 0;
+		font-size: 14px;
+		line-height: 1.65;
+		color: var(--fg);
+	}
+
+	.jb-modal-section ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		display: flex;
+		flex-direction: column;
+		gap: 8px;
+	}
+
+	.jb-modal-section li {
+		font-size: 14px;
+		line-height: 1.55;
+		color: var(--fg);
+		padding-left: 18px;
+		position: relative;
+	}
+
+	.jb-modal-section li::before {
+		content: '';
+		position: absolute;
+		left: 4px;
+		top: 9px;
+		width: 4px;
+		height: 4px;
+		border-radius: 50%;
+		background: var(--fg-muted);
+	}
+
+	.jb-modal-actions {
+		display: flex;
+		gap: 8px;
+		margin-top: 28px;
+		padding-top: 20px;
+		border-top: 1px solid var(--border);
+	}
+
+	.jb-btn {
+		font-family: var(--font-sans);
+		font-size: 13.5px;
+		font-weight: 500;
+		padding: 9px 16px;
+		border-radius: 8px;
+		cursor: pointer;
+		border: 1px solid transparent;
+		text-decoration: none;
+		display: inline-flex;
+		align-items: center;
+		gap: 6px;
+		transition:
+			background 120ms ease,
+			border-color 120ms ease,
+			color 120ms ease,
+			opacity 120ms ease;
+	}
+
+	.jb-btn-primary {
+		background: var(--fg);
+		color: #000;
+		border-color: var(--fg);
+	}
+
+	.jb-btn-primary:hover {
+		opacity: 0.88;
+	}
+
+	.jb-btn-secondary {
+		background: transparent;
+		color: var(--fg);
+		border-color: var(--border);
+	}
+
+	.jb-btn-secondary:hover {
+		border-color: var(--border-strong);
+	}
+
+	.jb-btn svg {
+		width: 12px;
+		height: 12px;
+	}
 </style>
 
 <script type="module">
 	import { h, render } from 'https://esm.sh/preact@10.22.1';
-	import { useMemo, useState } from 'https://esm.sh/preact@10.22.1/hooks';
+	import { useEffect, useMemo, useState } from 'https://esm.sh/preact@10.22.1/hooks';
 	import htm from 'https://esm.sh/htm@3.1.1';
 
 	const html = htm.bind(h);
@@ -322,6 +545,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'junior',
 			location: 'remote',
 			specialty: 'front end',
+			posted: '2 days ago',
+			description:
+				'Help build the next generation of Lumen’s real-time collaboration UI. You’ll work with senior engineers on a modern React + TypeScript stack, ship features behind feature flags, and own pieces of our design system end-to-end.',
+			responsibilities: [
+				'Build polished, accessible UI in React and TypeScript',
+				'Collaborate with design on motion, interaction, and component APIs',
+				'Write tests and instrument features with product analytics',
+			],
+			requirements: [
+				'1+ year of professional frontend experience',
+				'Strong fundamentals in HTML, CSS, and JavaScript',
+				'Familiarity with React, TypeScript, and Git',
+			],
+			applyUrl: 'https://example.com/apply/lumen-junior-frontend',
 		},
 		{
 			id: 2,
@@ -331,6 +568,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'mid',
 			location: 'new york city',
 			specialty: 'back end',
+			posted: '5 days ago',
+			description:
+				'Own backend services that power Northwind’s logistics platform. You’ll design APIs, scale Postgres, and partner with infra to keep things fast as we move billions of dollars of freight per quarter.',
+			responsibilities: [
+				'Design, build, and operate Go services in production',
+				'Improve reliability, observability, and performance',
+				'Mentor newer engineers via code review and design docs',
+			],
+			requirements: [
+				'3+ years of backend experience in Go, Java, or similar',
+				'Comfortable with Postgres, message queues, and gRPC',
+				'Track record of shipping reliable services at scale',
+			],
+			applyUrl: 'https://example.com/apply/northwind-backend',
 		},
 		{
 			id: 3,
@@ -340,6 +591,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'senior',
 			location: 'seattle',
 			specialty: 'infrastructure',
+			posted: '1 week ago',
+			description:
+				'Lead the platform team building Gravity’s multi-region Kubernetes substrate. You’ll set the technical direction for compute, networking, and developer tooling across a fleet of thousands of nodes.',
+			responsibilities: [
+				'Design and operate multi-region Kubernetes clusters',
+				'Build internal platform tooling that engineers love to use',
+				'Lead incident response and post-mortems for the platform',
+			],
+			requirements: [
+				'5+ years operating production infrastructure at scale',
+				'Deep experience with Kubernetes, Terraform, and AWS or GCP',
+				'Strong systems fundamentals (Linux, networking, storage)',
+			],
+			applyUrl: 'https://example.com/apply/gravity-senior-infra',
 		},
 		{
 			id: 4,
@@ -349,6 +614,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'staff',
 			location: 'san francisco',
 			specialty: 'AI',
+			posted: '3 days ago',
+			description:
+				'Define the technical strategy for Synapse’s applied research org. Drive the architecture behind our agent runtime, evals, and inference stack — and help recruit a world-class team along the way.',
+			responsibilities: [
+				'Set direction for our LLM training, evals, and serving infra',
+				'Lead technical design across multiple squads',
+				'Partner with research to ship state-of-the-art models in prod',
+			],
+			requirements: [
+				'7+ years of engineering experience, including ML systems',
+				'Hands-on experience with PyTorch, distributed training, and inference',
+				'Demonstrated ability to lead complex technical efforts',
+			],
+			applyUrl: 'https://example.com/apply/synapse-staff-ai',
 		},
 		{
 			id: 5,
@@ -358,6 +637,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'senior staff',
 			location: 'remote',
 			specialty: 'security',
+			posted: '6 days ago',
+			description:
+				'Own Bastion’s product security strategy across cloud, application, and identity. You’ll partner directly with the CTO on the security roadmap and lead the team that keeps our customers safe.',
+			responsibilities: [
+				'Set the multi-year security architecture and roadmap',
+				'Lead threat modeling, audits, and incident response',
+				'Mentor and grow a small, senior security team',
+			],
+			requirements: [
+				'10+ years of security engineering experience',
+				'Deep expertise in cloud security, IAM, and cryptography',
+				'Demonstrated ability to influence engineering org-wide',
+			],
+			applyUrl: 'https://example.com/apply/bastion-senior-staff-security',
 		},
 		{
 			id: 6,
@@ -367,6 +660,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'mid',
 			location: 'san francisco',
 			specialty: 'full stack',
+			posted: '4 days ago',
+			description:
+				'Build core product surfaces at Foundry, a developer-first platform used by thousands of engineering teams. You’ll work across the stack — from Postgres queries to React components — and ship features end-to-end.',
+			responsibilities: [
+				'Ship full-stack features in TypeScript and Node.js',
+				'Improve performance, DX, and observability',
+				'Partner closely with design and PM on product direction',
+			],
+			requirements: [
+				'3+ years of full-stack experience',
+				'Strong with TypeScript, React, and a Node backend',
+				'Comfortable owning features from spec to launch',
+			],
+			applyUrl: 'https://example.com/apply/foundry-fullstack',
 		},
 		{
 			id: 7,
@@ -376,6 +683,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'senior',
 			location: 'new york city',
 			specialty: 'product engineer',
+			posted: '1 day ago',
+			description:
+				'Own entire product surfaces at Tessera. You’ll write specs, design flows with our PM, and ship the code — all the way from idea to GA. Big autonomy, fast feedback loops, real impact.',
+			responsibilities: [
+				'Lead end-to-end on product features',
+				'Drive experimentation and analytics-led iteration',
+				'Raise the quality bar across product engineering',
+			],
+			requirements: [
+				'5+ years shipping consumer-quality products',
+				'Strong product instincts and design sense',
+				'Excellent communication and collaboration skills',
+			],
+			applyUrl: 'https://example.com/apply/tessera-senior-product',
 		},
 		{
 			id: 8,
@@ -385,6 +706,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'junior',
 			location: 'seattle',
 			specialty: 'back end',
+			posted: '1 week ago',
+			description:
+				'Join the payments team at Polaris and help build the rails behind millions of transactions per day. You’ll work on Go services, Postgres, and Kafka under close mentorship from senior engineers.',
+			responsibilities: [
+				'Build and maintain Go microservices for payments',
+				'Write integration tests and improve reliability',
+				'Participate in on-call rotations once ramped',
+			],
+			requirements: [
+				'1+ year of backend experience or strong CS fundamentals',
+				'Familiarity with one of Go, Java, Rust, or Python',
+				'Curiosity about distributed systems and payments',
+			],
+			applyUrl: 'https://example.com/apply/polaris-junior-backend',
 		},
 		{
 			id: 9,
@@ -394,6 +729,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'staff',
 			location: 'remote',
 			specialty: 'infrastructure',
+			posted: '2 weeks ago',
+			description:
+				'Architect Helix’s next-generation compute platform. You’ll lead efforts across scheduling, isolation, and hardware to deliver a 10x improvement in cost per inference for our customers.',
+			responsibilities: [
+				'Drive multi-quarter platform initiatives end-to-end',
+				'Set technical direction for compute and scheduling',
+				'Partner with hardware partners on accelerator integration',
+			],
+			requirements: [
+				'7+ years of infrastructure experience',
+				'Deep expertise with Linux, schedulers, and orchestration',
+				'Track record of shipping high-impact platform work',
+			],
+			applyUrl: 'https://example.com/apply/helix-staff-infra',
 		},
 		{
 			id: 10,
@@ -403,6 +752,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'senior',
 			location: 'san francisco',
 			specialty: 'front end',
+			posted: '3 days ago',
+			description:
+				'Lead the frontend craft at Crescent. You’ll own our component library, push the boundaries of motion and interaction design, and mentor the rest of the frontend team.',
+			responsibilities: [
+				'Architect frontend systems and component libraries',
+				'Set the bar for performance, accessibility, and polish',
+				'Mentor mid-level engineers and review designs',
+			],
+			requirements: [
+				'5+ years of senior-level frontend experience',
+				'Expert with React, TypeScript, and modern CSS',
+				'Strong eye for design, motion, and detail',
+			],
+			applyUrl: 'https://example.com/apply/crescent-senior-frontend',
 		},
 		{
 			id: 11,
@@ -412,6 +775,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'mid',
 			location: 'remote',
 			specialty: 'AI',
+			posted: '5 days ago',
+			description:
+				'Build the agent platform at Mira. You’ll own pieces of the eval, training, and deployment pipeline — and ship improvements that move benchmark numbers in production.',
+			responsibilities: [
+				'Improve fine-tuning, eval, and deployment pipelines',
+				'Run experiments and ship model improvements',
+				'Collaborate with product to ship AI features end-to-end',
+			],
+			requirements: [
+				'3+ years of ML or AI engineering experience',
+				'Comfortable with Python, PyTorch, and modern LLM tooling',
+				'Strong analytical and debugging skills',
+			],
+			applyUrl: 'https://example.com/apply/mira-mid-ai',
 		},
 		{
 			id: 12,
@@ -421,6 +798,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'senior staff',
 			location: 'new york city',
 			specialty: 'product engineer',
+			posted: '1 week ago',
+			description:
+				'Lead Atlas’s checkout org as a senior staff IC. You’ll own the technical strategy across multiple teams, mentor staff engineers, and ship the most important product surfaces in the company.',
+			responsibilities: [
+				'Set multi-year technical strategy across checkout',
+				'Lead high-leverage product launches',
+				'Mentor and develop staff and senior engineers',
+			],
+			requirements: [
+				'10+ years of product engineering experience',
+				'Demonstrated ability to lead through influence',
+				'Strong product judgment and engineering taste',
+			],
+			applyUrl: 'https://example.com/apply/atlas-senior-staff-product',
 		},
 		{
 			id: 13,
@@ -430,6 +821,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'senior',
 			location: 'seattle',
 			specialty: 'security',
+			posted: '4 days ago',
+			description:
+				'Lead application security at Vanta Shield. You’ll partner with product teams, run our bug bounty program, and design the controls that keep customer data safe.',
+			responsibilities: [
+				'Lead threat modeling and design reviews',
+				'Build and run secure-by-default frameworks',
+				'Drive AppSec roadmap and incident response',
+			],
+			requirements: [
+				'5+ years of application security experience',
+				'Strong code review skills across multiple languages',
+				'Hands-on with cloud security and IAM',
+			],
+			applyUrl: 'https://example.com/apply/vanta-senior-security',
 		},
 		{
 			id: 14,
@@ -439,6 +844,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'staff',
 			location: 'new york city',
 			specialty: 'full stack',
+			posted: '6 days ago',
+			description:
+				'Quill is rebuilding the writing experience for professionals. As a staff full-stack engineer, you’ll lead architecture across the editor, sync engine, and backend services.',
+			responsibilities: [
+				'Lead architecture across editor, sync, and backend',
+				'Set the technical bar for full-stack engineering',
+				'Mentor senior engineers and run design reviews',
+			],
+			requirements: [
+				'7+ years of full-stack experience',
+				'Deep expertise in TypeScript, React, and a backend language',
+				'Experience with real-time / collaborative systems is a plus',
+			],
+			applyUrl: 'https://example.com/apply/quill-staff-fullstack',
 		},
 		{
 			id: 15,
@@ -448,6 +867,20 @@ import Layout from '../layouts/Layout.astro';
 			level: 'junior',
 			location: 'remote',
 			specialty: 'product engineer',
+			posted: '2 days ago',
+			description:
+				'Help build Kindred’s consumer product from the ground up. You’ll ship features end-to-end, get fast feedback from real users, and learn from a tight-knit team of senior engineers.',
+			responsibilities: [
+				'Ship product features across the full stack',
+				'Run small experiments and iterate based on data',
+				'Contribute to design discussions and product reviews',
+			],
+			requirements: [
+				'1+ year of product engineering experience',
+				'Comfortable across frontend and backend',
+				'Strong product sense and bias to ship',
+			],
+			applyUrl: 'https://example.com/apply/kindred-junior-product',
 		},
 	];
 
@@ -473,9 +906,21 @@ import Layout from '../layouts/Layout.astro';
 		`;
 	}
 
-	function JobCard({ job }) {
+	function JobCard({ job, onSelect }) {
+		const handleKeyDown = (e) => {
+			if (e.key === 'Enter' || e.key === ' ') {
+				e.preventDefault();
+				onSelect(job);
+			}
+		};
 		return html`
-			<div class="jb-card">
+			<div
+				class="jb-card"
+				role="button"
+				tabIndex="0"
+				onClick=${() => onSelect(job)}
+				onKeyDown=${handleKeyDown}
+			>
 				<div class="jb-card-top">
 					<div>
 						<h3>${job.title}</h3>
@@ -492,10 +937,94 @@ import Layout from '../layouts/Layout.astro';
 		`;
 	}
 
+	function JobModal({ job, onClose }) {
+		useEffect(() => {
+			const onKey = (e) => {
+				if (e.key === 'Escape') onClose();
+			};
+			document.addEventListener('keydown', onKey);
+			const prevOverflow = document.body.style.overflow;
+			document.body.style.overflow = 'hidden';
+			return () => {
+				document.removeEventListener('keydown', onKey);
+				document.body.style.overflow = prevOverflow;
+			};
+		}, [onClose]);
+
+		const onOverlayClick = (e) => {
+			if (e.target === e.currentTarget) onClose();
+		};
+
+		return html`
+			<div
+				class="jb-modal-overlay"
+				role="dialog"
+				aria-modal="true"
+				aria-labelledby="jb-modal-title"
+				onClick=${onOverlayClick}
+			>
+				<div class="jb-modal">
+					<button
+						type="button"
+						class="jb-modal-close"
+						aria-label="Close"
+						onClick=${onClose}
+					>
+						<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6">
+							<path d="M4 4l8 8M12 4l-8 8" />
+						</svg>
+					</button>
+					<div class="jb-modal-meta">${job.posted}</div>
+					<h2 id="jb-modal-title">${job.title}</h2>
+					<div class="jb-modal-company">${job.company}</div>
+					<div class="jb-modal-pills">
+						<span class="jb-modal-pill salary">${job.salary}</span>
+						<span class="jb-modal-pill">${job.level}</span>
+						<span class="jb-modal-pill">${job.location}</span>
+						<span class="jb-modal-pill">${job.specialty}</span>
+					</div>
+					<div class="jb-modal-section">
+						<div class="jb-modal-section-label">About the role</div>
+						<p>${job.description}</p>
+					</div>
+					<div class="jb-modal-section">
+						<div class="jb-modal-section-label">What you'll do</div>
+						<ul>
+							${job.responsibilities.map((r) => html`<li key=${r}>${r}</li>`)}
+						</ul>
+					</div>
+					<div class="jb-modal-section">
+						<div class="jb-modal-section-label">What we're looking for</div>
+						<ul>
+							${job.requirements.map((r) => html`<li key=${r}>${r}</li>`)}
+						</ul>
+					</div>
+					<div class="jb-modal-actions">
+						<a
+							class="jb-btn jb-btn-primary"
+							href=${job.applyUrl}
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							Apply now
+							<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8">
+								<path d="M3 8h10M9 4l4 4-4 4" />
+							</svg>
+						</a>
+						<button type="button" class="jb-btn jb-btn-secondary" onClick=${onClose}>
+							Close
+						</button>
+					</div>
+				</div>
+			</div>
+		`;
+	}
+
 	function JobBoard() {
 		const [levels, setLevels] = useState(new Set());
 		const [locations, setLocations] = useState(new Set());
 		const [specialties, setSpecialties] = useState(new Set());
+		const [selectedJob, setSelectedJob] = useState(null);
 
 		const toggle = (setter) => (value) => {
 			setter((prev) => {
@@ -567,11 +1096,19 @@ import Layout from '../layouts/Layout.astro';
 						${filtered.length === 0
 							? html`<div class="jb-empty">No jobs match your filters.</div>`
 							: html`<div class="jb-list">
-									${filtered.map((job) => html`<${JobCard} key=${job.id} job=${job} />`)}
+									${filtered.map(
+										(job) => html`<${JobCard}
+											key=${job.id}
+											job=${job}
+											onSelect=${setSelectedJob}
+										/>`,
+									)}
 								</div>`}
 					</section>
 				</div>
 				</div>
+				${selectedJob &&
+				html`<${JobModal} job=${selectedJob} onClose=${() => setSelectedJob(null)} />`}
 			</div>
 		`;
 	}
