@@ -284,6 +284,24 @@ import Layout from '../layouts/Layout.astro';
 		letter-spacing: 0;
 	}
 
+	.jb-tag.posted {
+		display: inline-flex;
+		align-items: center;
+		gap: 5px;
+		margin-left: auto;
+		border-style: dashed;
+		color: #00ff41;
+		border-color: rgba(0, 255, 65, 0.35);
+		text-shadow: 0 0 8px rgba(0, 255, 65, 0.35);
+	}
+
+	.jb-tag.posted svg {
+		width: 10px;
+		height: 10px;
+		flex-shrink: 0;
+		opacity: 0.95;
+	}
+
 	.jb-empty {
 		text-align: center;
 		color: var(--fg-muted);
@@ -586,6 +604,19 @@ import Layout from '../layouts/Layout.astro';
 					<span class="jb-tag level">${job.level}</span>
 					<span class="jb-tag location">${job.location}</span>
 					<span class="jb-tag specialty">${job.specialty}</span>
+					<span class="jb-tag posted">
+						<svg
+							viewBox="0 0 16 16"
+							fill="none"
+							stroke="currentColor"
+							stroke-width="1.5"
+							aria-hidden="true"
+						>
+							<circle cx="8" cy="8" r="6" />
+							<path d="M8 5v3.2l2 1.6" stroke-linecap="round" />
+						</svg>
+						${job.posted}
+					</span>
 				</div>
 			</div>
 		`;
