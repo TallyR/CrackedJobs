@@ -22328,5 +22328,181 @@
 			"Excellent communication with executives and ICs alike"
 		],
 		"applyUrl": "https://example.com/apply/two-sigma-senior-staff-infrastructure-1015"
+	},
+	{
+		"id": 1016,
+		"title": "Senior iOS Engineer",
+		"company": "Apple",
+		"salary": "$220k – $280k",
+		"level": "senior",
+		"location": "san francisco",
+		"specialty": "iOS",
+		"posted": "2 days ago",
+		"description": "Lead iOS development on a flagship app team at Apple. You'll set the technical direction for our Swift codebase, push the boundaries of native interactions, and mentor a tight-knit iOS team.",
+		"responsibilities": [
+			"Architect Swift codebases and ship polished iOS releases",
+			"Lead design reviews and raise the bar on craft",
+			"Mentor mid-level engineers and review code"
+		],
+		"requirements": [
+			"5+ years of senior-level iOS experience",
+			"Expert with Swift, SwiftUI, and modern iOS frameworks",
+			"Strong eye for motion, interaction, and accessibility"
+		],
+		"applyUrl": "https://example.com/apply/apple-senior-ios-1016"
+	},
+	{
+		"id": 1017,
+		"title": "Staff Android Engineer",
+		"company": "Google",
+		"salary": "$295k – $370k",
+		"level": "staff",
+		"location": "seattle",
+		"specialty": "Android",
+		"posted": "4 days ago",
+		"description": "Lead Android architecture for one of Google's largest consumer apps. You'll set the technical bar for our Kotlin codebase, drive performance work, and partner with platform teams across the org.",
+		"responsibilities": [
+			"Set multi-quarter Android architecture direction",
+			"Drive performance, startup, and stability initiatives",
+			"Mentor senior engineers across multiple squads"
+		],
+		"requirements": [
+			"7+ years of Android experience, including staff-level work",
+			"Deep expertise in Kotlin, Jetpack Compose, and the Android platform",
+			"Track record of high-impact mobile launches"
+		],
+		"applyUrl": "https://example.com/apply/google-staff-android-1017"
+	},
+	{
+		"id": 1018,
+		"title": "Mid-Level iOS Engineer",
+		"company": "Stripe",
+		"salary": "$165k – $200k",
+		"level": "mid",
+		"location": "remote",
+		"specialty": "iOS",
+		"posted": "1 week ago",
+		"description": "Build the iOS SDK that powers payments for thousands of apps. You'll work on Swift APIs, developer ergonomics, and ship features that move billions of dollars of payment volume.",
+		"responsibilities": [
+			"Ship features in Swift across the iOS SDK",
+			"Improve developer experience and integration quality",
+			"Partner with backend and DX teams on end-to-end flows"
+		],
+		"requirements": [
+			"3+ years of iOS engineering experience",
+			"Strong with Swift and modern iOS APIs",
+			"Experience designing public SDK surfaces is a plus"
+		],
+		"applyUrl": "https://example.com/apply/stripe-mid-ios-1018"
+	},
+	{
+		"id": 1019,
+		"title": "Senior Android Engineer",
+		"company": "Meta",
+		"salary": "$215k – $275k",
+		"level": "senior",
+		"location": "new york city",
+		"specialty": "Android",
+		"posted": "3 days ago",
+		"description": "Lead Android development on a core surface at Meta. You'll work on Kotlin and C++ across the stack, drive performance and quality, and mentor a strong mobile team.",
+		"responsibilities": [
+			"Architect features across Kotlin and native layers",
+			"Drive quality, performance, and stability metrics",
+			"Mentor mid-level engineers and run design reviews"
+		],
+		"requirements": [
+			"5+ years of senior-level Android experience",
+			"Expert with Kotlin and the Android platform",
+			"Comfortable working across Java, Kotlin, and native code"
+		],
+		"applyUrl": "https://example.com/apply/meta-senior-android-1019"
+	},
+	{
+		"id": 1020,
+		"title": "Junior iOS Engineer",
+		"company": "Discord",
+		"salary": "$125k – $150k",
+		"level": "junior",
+		"location": "remote",
+		"specialty": "iOS",
+		"posted": "5 days ago",
+		"description": "Help build Discord's mobile experience for millions of users. You'll work on Swift, ship features end-to-end with mentorship from senior engineers, and learn from a strong mobile team.",
+		"responsibilities": [
+			"Ship Swift features across our iOS app",
+			"Write tests and contribute to code review",
+			"Collaborate with design on motion and polish"
+		],
+		"requirements": [
+			"1+ year of iOS engineering experience",
+			"Familiarity with Swift and UIKit or SwiftUI",
+			"Eagerness to learn and grow under mentorship"
+		],
+		"applyUrl": "https://example.com/apply/discord-junior-ios-1020"
+	},
+	{
+		"id": 1021,
+		"title": "Staff Android Engineer",
+		"company": "Spotify",
+		"salary": "$285k – $355k",
+		"level": "staff",
+		"location": "remote",
+		"specialty": "Android",
+		"posted": "6 days ago",
+		"description": "Lead architecture across Spotify's Android client. You'll set technical direction for playback, offline, and onboarding flows that millions of listeners hit every day.",
+		"responsibilities": [
+			"Set multi-quarter architecture direction",
+			"Drive playback, performance, and offline reliability",
+			"Mentor senior engineers across the Android org"
+		],
+		"requirements": [
+			"7+ years of Android experience, including staff-level work",
+			"Deep expertise in Kotlin and Jetpack Compose",
+			"Track record of high-impact Android launches"
+		],
+		"applyUrl": "https://example.com/apply/spotify-staff-android-1021"
+	},
+	{
+		"id": 1022,
+		"title": "Senior iOS Engineer",
+		"company": "Notion",
+		"salary": "$210k – $260k",
+		"level": "senior",
+		"location": "san francisco",
+		"specialty": "iOS",
+		"posted": "1 day ago",
+		"description": "Own the iOS app experience at Notion. You'll architect Swift code for our editor, sync engine, and offline experience — and partner closely with design on the craft of native interactions.",
+		"responsibilities": [
+			"Architect Swift code for editor, sync, and offline",
+			"Set the bar for performance, polish, and accessibility",
+			"Mentor mid-level engineers and review designs"
+		],
+		"requirements": [
+			"5+ years of senior-level iOS experience",
+			"Expert with Swift, SwiftUI, and Combine",
+			"Experience with offline-first or collaborative apps is a plus"
+		],
+		"applyUrl": "https://example.com/apply/notion-senior-ios-1022"
+	},
+	{
+		"id": 1023,
+		"title": "Mid-Level Android Engineer",
+		"company": "Airbnb",
+		"salary": "$160k – $195k",
+		"level": "mid",
+		"location": "san francisco",
+		"specialty": "Android",
+		"posted": "2 weeks ago",
+		"description": "Build Android features at Airbnb that hosts and guests use every day. You'll work in Kotlin and Jetpack Compose, ship features end-to-end, and partner with design on travel-grade polish.",
+		"responsibilities": [
+			"Ship Android features in Kotlin and Compose",
+			"Improve quality, performance, and crash-free rates",
+			"Partner closely with design and PM on flows"
+		],
+		"requirements": [
+			"3+ years of Android engineering experience",
+			"Strong with Kotlin and modern Android architecture",
+			"Comfortable owning features end-to-end"
+		],
+		"applyUrl": "https://example.com/apply/airbnb-mid-android-1023"
 	}
 ]
