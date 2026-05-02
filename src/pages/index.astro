@@ -536,353 +536,7 @@ import Layout from '../layouts/Layout.astro';
 		'back end',
 	];
 
-	const JOBS = [
-		{
-			id: 1,
-			title: 'Junior Frontend Engineer',
-			company: 'Lumen Labs',
-			salary: '$110k – $135k',
-			level: 'junior',
-			location: 'remote',
-			specialty: 'front end',
-			posted: '2 days ago',
-			description:
-				'Help build the next generation of Lumen’s real-time collaboration UI. You’ll work with senior engineers on a modern React + TypeScript stack, ship features behind feature flags, and own pieces of our design system end-to-end.',
-			responsibilities: [
-				'Build polished, accessible UI in React and TypeScript',
-				'Collaborate with design on motion, interaction, and component APIs',
-				'Write tests and instrument features with product analytics',
-			],
-			requirements: [
-				'1+ year of professional frontend experience',
-				'Strong fundamentals in HTML, CSS, and JavaScript',
-				'Familiarity with React, TypeScript, and Git',
-			],
-			applyUrl: 'https://example.com/apply/lumen-junior-frontend',
-		},
-		{
-			id: 2,
-			title: 'Mid-Level Backend Engineer',
-			company: 'Northwind Systems',
-			salary: '$150k – $180k',
-			level: 'mid',
-			location: 'new york city',
-			specialty: 'back end',
-			posted: '5 days ago',
-			description:
-				'Own backend services that power Northwind’s logistics platform. You’ll design APIs, scale Postgres, and partner with infra to keep things fast as we move billions of dollars of freight per quarter.',
-			responsibilities: [
-				'Design, build, and operate Go services in production',
-				'Improve reliability, observability, and performance',
-				'Mentor newer engineers via code review and design docs',
-			],
-			requirements: [
-				'3+ years of backend experience in Go, Java, or similar',
-				'Comfortable with Postgres, message queues, and gRPC',
-				'Track record of shipping reliable services at scale',
-			],
-			applyUrl: 'https://example.com/apply/northwind-backend',
-		},
-		{
-			id: 3,
-			title: 'Senior Infrastructure Engineer',
-			company: 'Gravity Cloud',
-			salary: '$200k – $260k',
-			level: 'senior',
-			location: 'seattle',
-			specialty: 'infrastructure',
-			posted: '1 week ago',
-			description:
-				'Lead the platform team building Gravity’s multi-region Kubernetes substrate. You’ll set the technical direction for compute, networking, and developer tooling across a fleet of thousands of nodes.',
-			responsibilities: [
-				'Design and operate multi-region Kubernetes clusters',
-				'Build internal platform tooling that engineers love to use',
-				'Lead incident response and post-mortems for the platform',
-			],
-			requirements: [
-				'5+ years operating production infrastructure at scale',
-				'Deep experience with Kubernetes, Terraform, and AWS or GCP',
-				'Strong systems fundamentals (Linux, networking, storage)',
-			],
-			applyUrl: 'https://example.com/apply/gravity-senior-infra',
-		},
-		{
-			id: 4,
-			title: 'Staff AI Engineer',
-			company: 'Synapse AI',
-			salary: '$280k – $360k',
-			level: 'staff',
-			location: 'san francisco',
-			specialty: 'AI',
-			posted: '3 days ago',
-			description:
-				'Define the technical strategy for Synapse’s applied research org. Drive the architecture behind our agent runtime, evals, and inference stack — and help recruit a world-class team along the way.',
-			responsibilities: [
-				'Set direction for our LLM training, evals, and serving infra',
-				'Lead technical design across multiple squads',
-				'Partner with research to ship state-of-the-art models in prod',
-			],
-			requirements: [
-				'7+ years of engineering experience, including ML systems',
-				'Hands-on experience with PyTorch, distributed training, and inference',
-				'Demonstrated ability to lead complex technical efforts',
-			],
-			applyUrl: 'https://example.com/apply/synapse-staff-ai',
-		},
-		{
-			id: 5,
-			title: 'Senior Staff Security Engineer',
-			company: 'Bastion Security',
-			salary: '$330k – $420k',
-			level: 'senior staff',
-			location: 'remote',
-			specialty: 'security',
-			posted: '6 days ago',
-			description:
-				'Own Bastion’s product security strategy across cloud, application, and identity. You’ll partner directly with the CTO on the security roadmap and lead the team that keeps our customers safe.',
-			responsibilities: [
-				'Set the multi-year security architecture and roadmap',
-				'Lead threat modeling, audits, and incident response',
-				'Mentor and grow a small, senior security team',
-			],
-			requirements: [
-				'10+ years of security engineering experience',
-				'Deep expertise in cloud security, IAM, and cryptography',
-				'Demonstrated ability to influence engineering org-wide',
-			],
-			applyUrl: 'https://example.com/apply/bastion-senior-staff-security',
-		},
-		{
-			id: 6,
-			title: 'Mid-Level Full Stack Engineer',
-			company: 'Foundry',
-			salary: '$155k – $185k',
-			level: 'mid',
-			location: 'san francisco',
-			specialty: 'full stack',
-			posted: '4 days ago',
-			description:
-				'Build core product surfaces at Foundry, a developer-first platform used by thousands of engineering teams. You’ll work across the stack — from Postgres queries to React components — and ship features end-to-end.',
-			responsibilities: [
-				'Ship full-stack features in TypeScript and Node.js',
-				'Improve performance, DX, and observability',
-				'Partner closely with design and PM on product direction',
-			],
-			requirements: [
-				'3+ years of full-stack experience',
-				'Strong with TypeScript, React, and a Node backend',
-				'Comfortable owning features from spec to launch',
-			],
-			applyUrl: 'https://example.com/apply/foundry-fullstack',
-		},
-		{
-			id: 7,
-			title: 'Senior Product Engineer',
-			company: 'Tessera',
-			salary: '$210k – $260k',
-			level: 'senior',
-			location: 'new york city',
-			specialty: 'product engineer',
-			posted: '1 day ago',
-			description:
-				'Own entire product surfaces at Tessera. You’ll write specs, design flows with our PM, and ship the code — all the way from idea to GA. Big autonomy, fast feedback loops, real impact.',
-			responsibilities: [
-				'Lead end-to-end on product features',
-				'Drive experimentation and analytics-led iteration',
-				'Raise the quality bar across product engineering',
-			],
-			requirements: [
-				'5+ years shipping consumer-quality products',
-				'Strong product instincts and design sense',
-				'Excellent communication and collaboration skills',
-			],
-			applyUrl: 'https://example.com/apply/tessera-senior-product',
-		},
-		{
-			id: 8,
-			title: 'Junior Backend Engineer',
-			company: 'Polaris Pay',
-			salary: '$115k – $140k',
-			level: 'junior',
-			location: 'seattle',
-			specialty: 'back end',
-			posted: '1 week ago',
-			description:
-				'Join the payments team at Polaris and help build the rails behind millions of transactions per day. You’ll work on Go services, Postgres, and Kafka under close mentorship from senior engineers.',
-			responsibilities: [
-				'Build and maintain Go microservices for payments',
-				'Write integration tests and improve reliability',
-				'Participate in on-call rotations once ramped',
-			],
-			requirements: [
-				'1+ year of backend experience or strong CS fundamentals',
-				'Familiarity with one of Go, Java, Rust, or Python',
-				'Curiosity about distributed systems and payments',
-			],
-			applyUrl: 'https://example.com/apply/polaris-junior-backend',
-		},
-		{
-			id: 9,
-			title: 'Staff Infrastructure Engineer',
-			company: 'Helix Compute',
-			salary: '$290k – $370k',
-			level: 'staff',
-			location: 'remote',
-			specialty: 'infrastructure',
-			posted: '2 weeks ago',
-			description:
-				'Architect Helix’s next-generation compute platform. You’ll lead efforts across scheduling, isolation, and hardware to deliver a 10x improvement in cost per inference for our customers.',
-			responsibilities: [
-				'Drive multi-quarter platform initiatives end-to-end',
-				'Set technical direction for compute and scheduling',
-				'Partner with hardware partners on accelerator integration',
-			],
-			requirements: [
-				'7+ years of infrastructure experience',
-				'Deep expertise with Linux, schedulers, and orchestration',
-				'Track record of shipping high-impact platform work',
-			],
-			applyUrl: 'https://example.com/apply/helix-staff-infra',
-		},
-		{
-			id: 10,
-			title: 'Senior Frontend Engineer',
-			company: 'Crescent',
-			salary: '$200k – $245k',
-			level: 'senior',
-			location: 'san francisco',
-			specialty: 'front end',
-			posted: '3 days ago',
-			description:
-				'Lead the frontend craft at Crescent. You’ll own our component library, push the boundaries of motion and interaction design, and mentor the rest of the frontend team.',
-			responsibilities: [
-				'Architect frontend systems and component libraries',
-				'Set the bar for performance, accessibility, and polish',
-				'Mentor mid-level engineers and review designs',
-			],
-			requirements: [
-				'5+ years of senior-level frontend experience',
-				'Expert with React, TypeScript, and modern CSS',
-				'Strong eye for design, motion, and detail',
-			],
-			applyUrl: 'https://example.com/apply/crescent-senior-frontend',
-		},
-		{
-			id: 11,
-			title: 'Mid-Level AI Engineer',
-			company: 'Mira Research',
-			salary: '$170k – $210k',
-			level: 'mid',
-			location: 'remote',
-			specialty: 'AI',
-			posted: '5 days ago',
-			description:
-				'Build the agent platform at Mira. You’ll own pieces of the eval, training, and deployment pipeline — and ship improvements that move benchmark numbers in production.',
-			responsibilities: [
-				'Improve fine-tuning, eval, and deployment pipelines',
-				'Run experiments and ship model improvements',
-				'Collaborate with product to ship AI features end-to-end',
-			],
-			requirements: [
-				'3+ years of ML or AI engineering experience',
-				'Comfortable with Python, PyTorch, and modern LLM tooling',
-				'Strong analytical and debugging skills',
-			],
-			applyUrl: 'https://example.com/apply/mira-mid-ai',
-		},
-		{
-			id: 12,
-			title: 'Senior Staff Product Engineer',
-			company: 'Atlas Commerce',
-			salary: '$340k – $430k',
-			level: 'senior staff',
-			location: 'new york city',
-			specialty: 'product engineer',
-			posted: '1 week ago',
-			description:
-				'Lead Atlas’s checkout org as a senior staff IC. You’ll own the technical strategy across multiple teams, mentor staff engineers, and ship the most important product surfaces in the company.',
-			responsibilities: [
-				'Set multi-year technical strategy across checkout',
-				'Lead high-leverage product launches',
-				'Mentor and develop staff and senior engineers',
-			],
-			requirements: [
-				'10+ years of product engineering experience',
-				'Demonstrated ability to lead through influence',
-				'Strong product judgment and engineering taste',
-			],
-			applyUrl: 'https://example.com/apply/atlas-senior-staff-product',
-		},
-		{
-			id: 13,
-			title: 'Senior Security Engineer',
-			company: 'Vanta Shield',
-			salary: '$215k – $270k',
-			level: 'senior',
-			location: 'seattle',
-			specialty: 'security',
-			posted: '4 days ago',
-			description:
-				'Lead application security at Vanta Shield. You’ll partner with product teams, run our bug bounty program, and design the controls that keep customer data safe.',
-			responsibilities: [
-				'Lead threat modeling and design reviews',
-				'Build and run secure-by-default frameworks',
-				'Drive AppSec roadmap and incident response',
-			],
-			requirements: [
-				'5+ years of application security experience',
-				'Strong code review skills across multiple languages',
-				'Hands-on with cloud security and IAM',
-			],
-			applyUrl: 'https://example.com/apply/vanta-senior-security',
-		},
-		{
-			id: 14,
-			title: 'Staff Full Stack Engineer',
-			company: 'Quill',
-			salary: '$285k – $355k',
-			level: 'staff',
-			location: 'new york city',
-			specialty: 'full stack',
-			posted: '6 days ago',
-			description:
-				'Quill is rebuilding the writing experience for professionals. As a staff full-stack engineer, you’ll lead architecture across the editor, sync engine, and backend services.',
-			responsibilities: [
-				'Lead architecture across editor, sync, and backend',
-				'Set the technical bar for full-stack engineering',
-				'Mentor senior engineers and run design reviews',
-			],
-			requirements: [
-				'7+ years of full-stack experience',
-				'Deep expertise in TypeScript, React, and a backend language',
-				'Experience with real-time / collaborative systems is a plus',
-			],
-			applyUrl: 'https://example.com/apply/quill-staff-fullstack',
-		},
-		{
-			id: 15,
-			title: 'Junior Product Engineer',
-			company: 'Kindred',
-			salary: '$120k – $145k',
-			level: 'junior',
-			location: 'remote',
-			specialty: 'product engineer',
-			posted: '2 days ago',
-			description:
-				'Help build Kindred’s consumer product from the ground up. You’ll ship features end-to-end, get fast feedback from real users, and learn from a tight-knit team of senior engineers.',
-			responsibilities: [
-				'Ship product features across the full stack',
-				'Run small experiments and iterate based on data',
-				'Contribute to design discussions and product reviews',
-			],
-			requirements: [
-				'1+ year of product engineering experience',
-				'Comfortable across frontend and backend',
-				'Strong product sense and bias to ship',
-			],
-			applyUrl: 'https://example.com/apply/kindred-junior-product',
-		},
-	];
+	const JOBS_URL = '/jobs.json';
 
 	function FilterGroup({ label, options, selected, onToggle }) {
 		return html`
@@ -1025,6 +679,26 @@ import Layout from '../layouts/Layout.astro';
 		const [locations, setLocations] = useState(new Set());
 		const [specialties, setSpecialties] = useState(new Set());
 		const [selectedJob, setSelectedJob] = useState(null);
+		const [jobs, setJobs] = useState(null);
+		const [error, setError] = useState(null);
+
+		useEffect(() => {
+			let cancelled = false;
+			fetch(JOBS_URL)
+				.then((res) => {
+					if (!res.ok) throw new Error('Failed to load jobs (' + res.status + ')');
+					return res.json();
+				})
+				.then((data) => {
+					if (!cancelled) setJobs(data);
+				})
+				.catch((err) => {
+					if (!cancelled) setError(err.message || String(err));
+				});
+			return () => {
+				cancelled = true;
+			};
+		}, []);
 
 		const toggle = (setter) => (value) => {
 			setter((prev) => {
@@ -1042,15 +716,17 @@ import Layout from '../layouts/Layout.astro';
 		};
 
 		const filtered = useMemo(() => {
-			return JOBS.filter((job) => {
+			if (!jobs) return [];
+			return jobs.filter((job) => {
 				if (levels.size && !levels.has(job.level)) return false;
 				if (locations.size && !locations.has(job.location)) return false;
 				if (specialties.size && !specialties.has(job.specialty)) return false;
 				return true;
 			});
-		}, [levels, locations, specialties]);
+		}, [jobs, levels, locations, specialties]);
 
 		const totalActive = levels.size + locations.size + specialties.size;
+		const isLoading = jobs === null && !error;
 
 		return html`
 			<div>
@@ -1062,7 +738,7 @@ import Layout from '../layouts/Layout.astro';
 				<div class="jb-container">
 				<div class="jb-header">
 					<h1>Cracked jobs only.</h1>
-					<p>Elite engineering roles at the highest-paying companies in tech.</p>
+					<p>Elite engineering roles at the highest paying companies in tech.</p>
 				</div>
 				<div class="jb-layout">
 					<aside class="jb-filters">
@@ -1091,19 +767,27 @@ import Layout from '../layouts/Layout.astro';
 					</aside>
 					<section>
 						<div class="jb-results-meta">
-							Showing ${filtered.length} of ${JOBS.length} jobs
+							${isLoading
+								? 'Loading jobs…'
+								: error
+									? 'Failed to load jobs'
+									: 'Showing ' + filtered.length + ' of ' + jobs.length + ' jobs'}
 						</div>
-						${filtered.length === 0
-							? html`<div class="jb-empty">No jobs match your filters.</div>`
-							: html`<div class="jb-list">
-									${filtered.map(
-										(job) => html`<${JobCard}
-											key=${job.id}
-											job=${job}
-											onSelect=${setSelectedJob}
-										/>`,
-									)}
-								</div>`}
+						${isLoading
+							? html`<div class="jb-empty">Loading jobs…</div>`
+							: error
+								? html`<div class="jb-empty">${error}</div>`
+								: filtered.length === 0
+									? html`<div class="jb-empty">No jobs match your filters.</div>`
+									: html`<div class="jb-list">
+											${filtered.map(
+												(job) => html`<${JobCard}
+													key=${job.id}
+													job=${job}
+													onSelect=${setSelectedJob}
+												/>`,
+											)}
+										</div>`}
 					</section>
 				</div>
 				</div>
