@@ -115,7 +115,7 @@
 		"company": "Figma",
 		"salary": "$155k – $185k",
 		"level": "mid",
-		"location": "san francisco",
+		"location": ["san francisco", "new york city"],
 		"specialty": "full stack",
 		"posted": "4 days ago",
 		"description": "Build core product surfaces at Figma. You'll work across the stack — from Postgres queries to React components — and ship features end-to-end on the design tools millions of teams rely on.",

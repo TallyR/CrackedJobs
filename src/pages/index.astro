@@ -566,6 +566,9 @@ import Layout from '../layouts/Layout.astro';
 
 	const JOBS_URL = '/jobs.json';
 
+	const getLocations = (job) =>
+		Array.isArray(job.location) ? job.location : [job.location];
+
 	function FilterGroup({ label, options, selected, onToggle }) {
 		return html`
 			<div class="jb-filter-group">
@@ -612,7 +615,9 @@ import Layout from '../layouts/Layout.astro';
 				</div>
 				<div class="jb-tags">
 					<span class="jb-tag level">${job.level}</span>
-					<span class="jb-tag location">${job.location}</span>
+					${getLocations(job).map(
+						(loc) => html`<span key=${loc} class="jb-tag location">${loc}</span>`,
+					)}
 					<span class="jb-tag specialty">${job.specialty}</span>
 					<span class="jb-tag posted">
 						<svg
@@ -675,7 +680,9 @@ import Layout from '../layouts/Layout.astro';
 					<div class="jb-modal-pills">
 						<span class="jb-modal-pill salary">${job.salary}</span>
 						<span class="jb-modal-pill">${job.level}</span>
-						<span class="jb-modal-pill">${job.location}</span>
+						${getLocations(job).map(
+							(loc) => html`<span key=${loc} class="jb-modal-pill">${loc}</span>`,
+						)}
 						<span class="jb-modal-pill">${job.specialty}</span>
 					</div>
 					<div class="jb-modal-section">
@@ -760,7 +767,10 @@ import Layout from '../layouts/Layout.astro';
 			if (!jobs) return [];
 			return jobs.filter((job) => {
 				if (levels.size && !levels.has(job.level)) return false;
-				if (locations.size && !locations.has(job.location)) return false;
+				if (locations.size) {
+					const jobLocs = getLocations(job);
+					if (!jobLocs.some((loc) => locations.has(loc))) return false;
+				}
 				if (specialties.size && !specialties.has(job.specialty)) return false;
 				return true;
 			});
