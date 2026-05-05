@@ -566,8 +566,14 @@ import Layout from '../layouts/Layout.astro';
 
 	const JOBS_URL = '/jobs.json';
 
+	const getLevels = (job) =>
+		Array.isArray(job.level) ? job.level : [job.level];
+
 	const getLocations = (job) =>
 		Array.isArray(job.location) ? job.location : [job.location];
+
+	const getSpecialties = (job) =>
+		Array.isArray(job.specialty) ? job.specialty : [job.specialty];
 
 	function FilterGroup({ label, options, selected, onToggle }) {
 		return html`
@@ -614,11 +620,15 @@ import Layout from '../layouts/Layout.astro';
 					<div class="jb-salary">${job.salary}</div>
 				</div>
 				<div class="jb-tags">
-					<span class="jb-tag level">${job.level}</span>
+					${getLevels(job).map(
+						(l) => html`<span key=${l} class="jb-tag level">${l}</span>`,
+					)}
 					${getLocations(job).map(
 						(loc) => html`<span key=${loc} class="jb-tag location">${loc}</span>`,
 					)}
-					<span class="jb-tag specialty">${job.specialty}</span>
+					${getSpecialties(job).map(
+						(s) => html`<span key=${s} class="jb-tag specialty">${s}</span>`,
+					)}
 					<span class="jb-tag posted">
 						<svg
 							viewBox="0 0 16 16"
@@ -679,11 +689,15 @@ import Layout from '../layouts/Layout.astro';
 					<div class="jb-modal-company">${job.company}</div>
 					<div class="jb-modal-pills">
 						<span class="jb-modal-pill salary">${job.salary}</span>
-						<span class="jb-modal-pill">${job.level}</span>
+						${getLevels(job).map(
+							(l) => html`<span key=${l} class="jb-modal-pill">${l}</span>`,
+						)}
 						${getLocations(job).map(
 							(loc) => html`<span key=${loc} class="jb-modal-pill">${loc}</span>`,
 						)}
-						<span class="jb-modal-pill">${job.specialty}</span>
+						${getSpecialties(job).map(
+							(s) => html`<span key=${s} class="jb-modal-pill">${s}</span>`,
+						)}
 					</div>
 					<div class="jb-modal-section">
 						<div class="jb-modal-section-label">About the role</div>
@@ -766,12 +780,18 @@ import Layout from '../layouts/Layout.astro';
 		const filtered = useMemo(() => {
 			if (!jobs) return [];
 			return jobs.filter((job) => {
-				if (levels.size && !levels.has(job.level)) return false;
+				if (levels.size) {
+					const jobLevels = getLevels(job);
+					if (!jobLevels.some((l) => levels.has(l))) return false;
+				}
 				if (locations.size) {
 					const jobLocs = getLocations(job);
 					if (!jobLocs.some((loc) => locations.has(loc))) return false;
 				}
-				if (specialties.size && !specialties.has(job.specialty)) return false;
+				if (specialties.size) {
+					const jobSpecs = getSpecialties(job);
+					if (!jobSpecs.some((s) => specialties.has(s))) return false;
+				}
 				return true;
 			});
 		}, [jobs, levels, locations, specialties]);
