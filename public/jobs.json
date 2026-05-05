@@ -1,25 +1,35 @@
 [
 	{
 		"id": 1,
-		"title": "Entry Frontend Engineer",
-		"company": "Vercel",
-		"salary": "$110k – $135k",
-		"level": "entry",
-		"location": "remote",
-		"specialty": "front end",
-		"posted": "2 days ago",
-		"description": "Help build the next generation of Vercel's developer dashboard. You'll work with senior engineers on a modern Next.js + TypeScript stack, ship features behind feature flags, and own pieces of our design system end-to-end.",
+		"title": "Staff Software Engineer, Stream Compute",
+		"company": "Stripe",
+		"salary": "~$633k TC",
+		"level": "staff",
+		"location": ["seattle", "san francisco", "new york city"],
+		"specialty": "infrastructure",
+		"posted": "1 week ago",
+		"description": "You'll help define and deliver the next generation of Stripe's Flink-first stream compute infrastructure—driving innovation to meet extremely high availability targets at global scale. Partnering with infrastructure engineers, adjacent platform teams, and the product orgs that depend on Flink every day, you'll set a long-term technical direction that scales with Stripe's growth while enabling reliable, efficient operations for years to come. You'll work on the hardest problems in operating Flink in production—state management, exactly-once processing, performance isolation, and automated recovery—so teams across Stripe can confidently build stateful stream processing applications on top of it.",
 		"responsibilities": [
-			"Build polished, accessible UI in React and TypeScript",
-			"Collaborate with design on motion, interaction, and component APIs",
-			"Write tests and instrument features with product analytics"
+		"Design, build, and operate stream compute infrastructure centered around Apache Flink with Kafka, Temporal, and AWS services",
+		"Partner with product and platform teams to gather requirements, unblock Flink adoption, and improve end-to-end stream processing usage",
+		"Define and implement operational best practices such as shuffle sharding, cellular architecture, load shedding, and automated state recovery",
+		"Drive fleet-level automation and standardization by transitioning from manual systems to self-service workflows and self-healing infrastructure",
+		"Lead initiatives to improve Flink availability and state durability through multi-region strategies, disaster recovery readiness, and incident learning",
+		"Evaluate and productionize Flink ecosystem capabilities including SQL, connectors, and state backends",
+		"Collaborate with the open source community to adopt new features and contribute back to open source projects"
 		],
 		"requirements": [
-			"1+ year of professional frontend experience",
-			"Strong fundamentals in HTML, CSS, and JavaScript",
-			"Familiarity with React, TypeScript, and Git"
+		"10+ years of experience building and operating large-scale production systems (Staff-level)",
+		"Experience as a technical lead on distributed systems teams in fast-moving environments",
+		"Hands-on experience with big data technologies such as Flink, Spark, Kafka, Pulsar, or Pinot",
+		"Experience developing, maintaining, and debugging distributed systems using open source tools",
+		"Experience building and scaling infrastructure as a product",
+		"Strong software engineering skills and ability to write high-quality code (Go, Java, Scala, etc)",
+		"Comfortable operating with high autonomy and ownership",
+		"Growth mindset with ability to learn quickly and navigate ambiguous problem spaces",
+		"Strong written and verbal communication skills, including technical documentation"
 		],
-		"applyUrl": "https://example.com/apply/vercel-entry-frontend"
+		"applyUrl": "https://stripe.com/jobs/listing/staff-software-engineer-stream-compute/7767063"
 	},
 	{
 		"id": 2,
